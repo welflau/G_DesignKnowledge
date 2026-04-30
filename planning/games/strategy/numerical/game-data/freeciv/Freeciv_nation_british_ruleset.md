@@ -1,0 +1,94 @@
+# Freeciv(nation) · british
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/british.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的british定义
+
+## 正文
+```ruleset
+[nation_british]
+
+name=_("British")
+plural=_("?plural:British")
+groups="Early Modern", "Modern", "European"
+legend=_("The United Kingdom was created in 1707 as a negotiated agreement\
+ between the kingdom of England and the kingdom of Scotland. The country -\
+ also known as Great Britain - became the leading industrial and maritime\
+ power in the 19th century.")
+
+leaders = {
+ "name",                "sex"
+ "Benjamin Disraeli",   "Male"
+ "William Gladstone",   "Male"
+ "George VI",           "Male"
+ "Victoria",            "Female"
+ "Winston Churchill",   "Male"
+ "Margaret Thatcher",   "Female"
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",         _("Pretender %s"),      _("?female:Pretender %s")
+ "Despotism",       _("Lord %s"),           _("Lady %s")
+ "Fundamentalism",  _("Bishop %s"),         _("?female:Bishop %s")
+ "Republic",        _("Lord Protector %s"), _("Lady Protector %s")
+}
+
+flag="united_kingdom"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+; We do not want British nation in the same game with English or any of the
+; other nations within modern Great Britain.
+conflicts_with="english", "scottish", "welsh", "cornish", "northumbrian", "northernirish"
+civilwar_nations=
+; Sub-national nations
+ "english", "scottish", "welsh", "cornish",
+; Northern Ireland
+ "northernirish",
+; English-speaking ex-colonies
+ "american", "australian", "canadian", "newzealand"
+
+; Cities listed roughly in order from south to north
+cities =
+ "London", 
+ "Bristol",
+ "Southampton",
+ "Portsmouth",
+ "Cardiff",
+ "Plymouth",
+ "Falmouth",
+ "Dover",
+ "Felixstowe",
+ "Birmingham",
+ "Coventry",
+ "Liverpool",
+ "Manchester",
+ "Sheffield",
+ "Kingston upon Hull",
+ "Leeds",
+ "Middlesbrough",
+ "Belfast",
+ "Londonderry",
+ "Newcastle upon Tyne",
+ "Glasgow",
+ "Edinburgh",
+ "Grangemouth",
+ "Dundee",
+ "Aberdeen",
+ "Peterhead",
+ "Scapa",
+ "Lerwick"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

@@ -1,0 +1,54 @@
+{
+  "id": "numerical_design",
+  "name": "数值策划",
+  "version": "1.0.0",
+  "description": "游戏数值策划全流程能力。覆盖战斗公式设计、成长曲线规划、经济系统建模、抽卡概率设计、商业化数值、数值配表生成、平衡性验证。",
+  "supported_genres": [
+    "SLG",
+    "RPG",
+    "卡牌",
+    "塔防",
+    "肉鸽",
+    "MOBA",
+    "通用"
+  ],
+  "sub_skills": [
+    {
+      "id": "combat_formula",
+      "name": "战斗公式设计",
+      "knowledge_count": 32
+    },
+    {
+      "id": "growth_curve",
+      "name": "成长曲线设计",
+      "knowledge_count": 0
+    },
+    {
+      "id": "economy_model",
+      "name": "经济系统建模",
+      "knowledge_count": 3
+    },
+    {
+      "id": "gacha_probability",
+      "name": "抽卡概率设计",
+      "knowledge_count": 2
+    },
+    {
+      "id": "monetization",
+      "name": "商业化数值",
+      "knowledge_count": 0
+    },
+    {
+      "id": "balance_validation",
+      "name": "数值平衡验证",
+      "knowledge_count": 1
+    }
+  ],
+  "knowledge_entries": 909,
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}

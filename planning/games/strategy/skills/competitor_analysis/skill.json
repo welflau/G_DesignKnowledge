@@ -1,0 +1,64 @@
+{
+  "id": "competitor_analysis",
+  "name": "竞品分析",
+  "version": "1.0.0",
+  "description": "基于真实游戏数据的竞品数值拆解与对比分析。覆盖明日方舟/原神/碧蓝航线/FGO/鸣潮/红警/文明/皇室战争等。",
+  "sub_skills": [
+    {
+      "id": "numerical_teardown",
+      "name": "数值拆解"
+    },
+    {
+      "id": "system_comparison",
+      "name": "系统对比"
+    },
+    {
+      "id": "data_query",
+      "name": "数据检索"
+    }
+  ],
+  "supported_games": [
+    {
+      "id": "arknights",
+      "name": "明日方舟",
+      "entries": 9
+    },
+    {
+      "id": "azurlane",
+      "name": "碧蓝航线",
+      "entries": 12
+    },
+    {
+      "id": "fgo",
+      "name": "FGO",
+      "entries": 0
+    },
+    {
+      "id": "wuthering",
+      "name": "鸣潮",
+      "entries": 15
+    },
+    {
+      "id": "openra",
+      "name": "红警/命令与征服",
+      "entries": 87
+    },
+    {
+      "id": "freeciv",
+      "name": "文明",
+      "entries": 704
+    },
+    {
+      "id": "clash-royale",
+      "name": "皇室战争",
+      "entries": 1
+    }
+  ],
+  "knowledge_entries": 864,
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}

@@ -1,0 +1,99 @@
+# Freeciv(nation) · khazar
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/khazar.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的khazar定义
+
+## 正文
+```ruleset
+[nation_khazar]
+
+name = _("Khazar")
+plural = _("?plural:Khazars")
+groups="European", "Medieval"
+legend=_("The Khazars founded a steppe empire on the plains of Southern\
+ Russia in the Early Middle Ages. Originally shamanists, they adopted\
+ Judaism as their state religion.")
+
+leaders = {
+ "name",                "sex"
+ "Khozarig",            "Male"
+ "Karadach",            "Male"
+ "Ziebel",              "Male"
+ "Buri-Sad",            "Male"
+ "Irbis",               "Male"
+ "Busir",               "Male"
+ "Barjik",              "Male"
+ "Baghatur",            "Male"
+ "Khan-Tuvan",          "Male"
+ "Hazer",               "Male"
+ "Zachariah",           "Male"
+ "Yazir Bulash",        "Male"
+ "Obadiah",             "Male"
+ "Hezekiah",            "Male"
+ "Chanukkah",           "Male"
+ "Manasseh I",          "Male"
+ "Manasseh II",         "Male"
+ "Georgius Tzul",       "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Despotism",       _("Tarkhan %s"),   _("?female:Tarkhan %s")
+ "Fundamentalism",  _("Rabbi %s"),     _("?female:Rabbi %s")
+ "Monarchy",        _("%s Khagan"),    _("?female:%s Khagan")
+}
+
+flag="khazaria"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+
+init_units=""
+civilwar_nations="volga bulgar", "israeli", "ruthenian"
+
+cities =
+"Atil",
+"Sarkel",
+"Khazaran",
+"Karcha", ;Kerch
+"Tmutarakan",
+"Samandar",
+"Sambalut",
+"Sambat", ;Kiev
+"Samiran",
+"Samosdelka",
+"Khumar",
+"Khamlij",
+"Sarighsin",
+"Sudak",
+"Tarki",
+"Balanjar",
+"Kazarki",
+"Yevpatoria",
+"Chersonesos Taurica",
+"Feodosya",
+"Khazaran",
+"Tamatarkha", ;Samkarsh
+"Bolgar",
+"Kazarki",
+"Güzliev",
+"Chernihiv",
+"Lübech",
+"Kursk",
+"Dores",
+"Tiflis",
+"Derbent",
+"Baku",
+"Azak"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

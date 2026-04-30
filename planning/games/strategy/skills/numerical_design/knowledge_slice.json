@@ -1,0 +1,408 @@
+[
+  {
+    "path": "numerical/damage-formula/伤害公式_原神_Damage_Formula_GI.md",
+    "title": "原神 · Damage Formula GI",
+    "tags": [
+      "伤害公式",
+      "原神",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_原神_Level_Multiplier_Reaction.md",
+    "title": "原神 · Level Multiplier Reaction",
+    "tags": [
+      "伤害公式",
+      "原神",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_星穹铁道_Damage_Formula_HSR.md",
+    "title": "星穹铁道 · Damage Formula HSR",
+    "tags": [
+      "伤害公式",
+      "星穹铁道",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_代理人.md",
+    "title": "米哈游(中文) · 代理人",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_伤害乘区.md",
+    "title": "米哈游(中文) · 伤害乘区",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_侵蚀效果图鉴.md",
+    "title": "米哈游(中文) · 侵蚀效果图鉴",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_敌人.md",
+    "title": "米哈游(中文) · 敌人",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_目录.md",
+    "title": "米哈游(中文) · 目录",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_邦布.md",
+    "title": "米哈游(中文) · 邦布",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_音擎.md",
+    "title": "米哈游(中文) · 音擎",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游(中文)_驱动盘.md",
+    "title": "米哈游(中文) · 驱动盘",
+    "tags": [
+      "伤害公式",
+      "米哈游(中文)",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_米哈游_README.md",
+    "title": "米哈游 · README",
+    "tags": [
+      "伤害公式",
+      "米哈游",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Attribute Anomaly.md",
+    "title": "绝区零 · Attribute Anomaly",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Buff Base CBT3.md",
+    "title": "绝区零 · Buff Base CBT3",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Damage_Formula_ZZZ_CBT3.md",
+    "title": "绝区零 · Damage Formula ZZZ CBT3",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Level_Coefficient_ZZZ.md",
+    "title": "绝区零 · Level Coefficient ZZZ",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Level_Scaling.md",
+    "title": "绝区零 · Level Scaling",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Shatter Base_CBT2.md",
+    "title": "绝区零 · Shatter Base CBT2",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/伤害公式_绝区零_Stun.md",
+    "title": "绝区零 · Stun",
+    "tags": [
+      "伤害公式",
+      "绝区零",
+      "乘区体系"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第10章_第10章：组队与社交系统数值.md",
+    "title": "游戏数值策划教程 · 第10章 · 第10章：组队与社交系统数值",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第11章_第11章：跨系统平衡与复杂度控制.md",
+    "title": "游戏数值策划教程 · 第11章 · 第11章：跨系统平衡与复杂度控制",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第1章_第1章：战斗数值系统.md",
+    "title": "游戏数值策划教程 · 第1章 · 第1章：战斗数值系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第2章_第2章：角色成长与等级系统.md",
+    "title": "游戏数值策划教程 · 第2章 · 第2章：角色成长与等级系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第3章_第3章：装备与道具系统.md",
+    "title": "游戏数值策划教程 · 第3章 · 第3章：装备与道具系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第4章_第4章：技能与天赋树系统.md",
+    "title": "游戏数值策划教程 · 第4章 · 第4章：技能与天赋树系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第5章_第5章：游戏经济系统.md",
+    "title": "游戏数值策划教程 · 第5章 · 第5章：游戏经济系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第6章_第6章：抽卡与掉落系统.md",
+    "title": "游戏数值策划教程 · 第6章 · 第6章：抽卡与掉落系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第7章_第7章：商业化数值设计.md",
+    "title": "游戏数值策划教程 · 第7章 · 第7章：商业化数值设计",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第8章_第8章：PVP平衡性设计.md",
+    "title": "游戏数值策划教程 · 第8章 · 第8章：PVP平衡性设计",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/damage-formula/数值教程_第9章_第9章：匹配与排位系统.md",
+    "title": "游戏数值策划教程 · 第9章 · 第9章：匹配与排位系统",
+    "tags": [
+      "数值策划",
+      "战斗数值",
+      "教程"
+    ]
+  },
+  {
+    "path": "numerical/math-models/数学模型_model_01_gacha_soft_pity.md",
+    "title": "抽卡软保底期望模型",
+    "tags": [
+      "数学模型",
+      "抽卡概率",
+      "Python"
+    ]
+  },
+  {
+    "path": "numerical/math-models/数学模型_model_02_damage_allocation.md",
+    "title": "多乘区伤害资源分配模型",
+    "tags": [
+      "数学模型",
+      "伤害公式",
+      "Python"
+    ]
+  },
+  {
+    "path": "numerical/math-models/数学模型_model_03_economic_control.md",
+    "title": "经济系统通胀控制模型",
+    "tags": [
+      "数学模型",
+      "经济系统",
+      "Python"
+    ]
+  },
+  {
+    "path": "numerical/math-models/数学模型_概述.md",
+    "title": "游戏数值数学模型合集",
+    "tags": [
+      "数学模型",
+      "抽卡",
+      "伤害分配",
+      "经济控制"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_3 数值平衡有哪些问题.md",
+    "title": "游戏设计资料 · 3 数值平衡有哪些问题",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_4 数值策划的三个工作阶段.md",
+    "title": "游戏设计资料 · 4 数值策划的三个工作阶段",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_5 数值策划最可能犯的三个错误.md",
+    "title": "游戏设计资料 · 5 数值策划最可能犯的三个错误",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_使用支付矩阵来设计游戏平衡和AI.md",
+    "title": "游戏设计资料 · 使用支付矩阵来设计游戏平衡和AI",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_使用生命值来设计转换因子.md",
+    "title": "游戏设计资料 · 使用生命值来设计转换因子",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_完美公式.md",
+    "title": "游戏设计资料 · 完美公式",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_数值相关.md",
+    "title": "游戏设计资料 · 数值相关",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_比防公式.md",
+    "title": "游戏设计资料 · 比防公式",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/GameDesign_网络游戏中常用的数值平衡方法.md",
+    "title": "游戏设计资料 · 网络游戏中常用的数值平衡方法",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "numerical/balance/天道记忆_记忆导入-数值策划师.md",
+    "title": "策划记忆 · 记忆导入-数值策划师",
+    "tags": [
+      "数值策划",
+      "战斗公式",
+      "经济系统"
+    ]
+  },
+  {
+    "path": "numerical/balance/游戏分析课程_皇室战争平衡.md",
+    "title": "阿尔托大学 · 游戏分析课程 · 皇室战争平衡分析",
+    "tags": [
+      "游戏分析",
+      "平衡性",
+      "Jupyter",
+      "学术"
+    ]
+  },
+  {
+    "path": "numerical/monetization/GameDesign_付费相关.md",
+    "title": "游戏设计资料 · 付费相关",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  }
+]

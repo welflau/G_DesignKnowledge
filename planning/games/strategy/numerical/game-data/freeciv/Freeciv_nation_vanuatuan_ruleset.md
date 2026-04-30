@@ -1,0 +1,95 @@
+# Freeciv(nation) · vanuatuan
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/vanuatuan.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的vanuatuan定义
+
+## 正文
+```ruleset
+[nation_vanuatuan]
+
+name = _("Vanuatuan")
+plural = _("?plural:Ni-Vanuatu")
+groups="Oceanian", "Modern"
+legend=_("Vanuatu, formerly known as the New Hebrides, is a country in\
+ Melanesia, consisting of about 80 islands. First inhabited by Melanesians,\
+ the islands were contested by the British and French in the late 19th\
+ century. In 1906 both colonial powers agreed to rule the New Hebrides\
+ together as a condominium. The Republic of Vanuatu declared its\
+ independence in 1980.")
+
+leaders = {
+ "name",                 "sex"
+ "Roy Mata",             "Male"
+ "John Frum",            "Male"
+ "Jimmy Stevens",        "Male"
+ "Walter Lini",          "Male"
+ "Grace Mera Molisa",    "Female"
+ "Maxime Carlot Korman", "Male"
+}
+
+ruler_titles = {
+ "government", "male_title",            "female_title"
+ "Monarchy",   _("Paramount Chief %s"), _("?female:Paramount Chief %s")
+}
+
+flag = "vanuatu"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations="solomon islander" ;new caledonian
+
+cities =
+ "Port Vila",
+ "Luganville",
+ "Lakatoro",
+ "Isangel",
+ "Longana",
+ "Sola",
+ "Loltong",
+ "Eas",
+ "Ringdove",
+ "Liro",
+ "Morua",
+ "Lamap",
+ "Port Olry",
+ "Mele",
+ "Norsup",
+ "Palikulo",
+ "Litslits",
+ "Penap",
+ "Leviamp",
+ "Hog Harbor",
+ "Craig Cove",
+ "Rambuan",
+ "Bunlap",
+ "Foriari",
+ "Ipikil",
+ "Lorevilko",
+ "Lenakel",
+ "Sulphur Bay",
+ "Whitesands",
+ "Ipota",
+ "Rovo Bay",
+ "Avounbaka",
+ "Butmas",
+ "Emiotungan",
+ "Fanla",
+ "Port Havannah",
+ "Lonwolwol",
+ "Pango",
+ "Port Vato",
+ "Yaohnanen"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

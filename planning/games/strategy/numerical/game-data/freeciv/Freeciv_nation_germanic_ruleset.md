@@ -1,0 +1,116 @@
+# Freeciv(nation) · germanic
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/germanic.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的germanic定义
+
+## 正文
+```ruleset
+[nation_germanic]
+
+name=_("Germanic")
+plural=_("?plural:Germanics")
+groups="Ancient", "European"
+legend=_("The Germanic peoples are an ethno-linguistic complex in Northern\
+ and Northwestern Europe. The Germanic languages descended from a hypothetical\
+ Proto-Germanic language within the Indo-European language family. The first\
+ origins of the Ancient Germanic peoples are rather hypothetical; the Germanic\
+ languages contain numerous features that are nonexistent in other Indo-European\
+ languages. First attested on the North German Plain and in Southern Scandinavia,\
+ they clashed with the Romans from the second century BCE onward. Eventually, by\
+ the Early Middle Ages, Germanic kingdoms were established on what was once the\
+ Western Roman Empire. By this time most Germanic peoples had changed their\
+ ancestral polytheistic religion for Christianity.")
+leaders = {
+ "name",        "sex"
+ "Harjawaldaz", "Male"
+ "Thusnelda",   "Female"
+ "Erminaz",     "Male"
+ "Katwalda",    "Male"
+ "Edika",       "Male"
+ "Odowakar",    "Male"
+ "Hululf",      "Male"
+ "Beowulf",     "Male"
+ "Hermanafrid", "Male"
+ "Angenwit",    "Male"
+}
+flag="germanic"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with = "alander", "alsatian", "austrian", "badian", "bavarian",
+ "belgian", "boer", "brandenburgian", "british", "burgundic", "danish", "dutch", 
+ "east german", "english", "faroese", "flemish", "franconian", "frankish",
+ "frisian", "gepid", "german", "german belgian", "gothic", "hanseatic", "hanoverian",
+ "hessian", "holy roman", "icelandic", "langobardic", "liechtensteiner", "lippian",
+ "luxembourgish", "mecklenburgian", "northumbrian", "norwegian", "oldenburgian",
+ "ostrogothic", "prussian",  "rhenish", "saxon", "scanian", "schleswig-holsteinian",
+ "scottish", "suebian", "swedish", "swiss", "teutonic", "thuringian", "tyrolian",
+ "vandalic", "viking", "visigothic", "volga german", "westphalian", "wuerttembergian"
+
+civilwar_nations = "bavarian", "burgundic", "frankish", "frisian", "hessian",
+ "gothic", "saxon", "thuringian", "vandalic", "viking", "frankish",
+ "northumbrian", "suebian", "gepid", "langobardic"
+
+cities =
+ "Jastorf",
+ "Nienburg",
+ "Brandgruben",
+ "Przeworsk",
+ "Valsgärde",
+ "Vendel",
+ "Egtved",
+ "Tanumshede",
+ "Sagaholm",
+ "Uppåkra",
+ "Trundholm",
+ "Tjängvide",
+ "Tängelgårda",
+ "Elgesem",
+ "Eketorp",
+ "Kinneve",
+ "Årstad",
+ "Nydam Mose",
+ "Værløse",
+ "Eggja",
+ "Skydsrup",
+ "Lindholm",
+ "Djupbrunns",
+ "Hogrän",
+ "Stenkumla",
+ "Tjurkö",
+ "Vadstena",
+ "Hørdum",
+ "Ledberg",
+ "Sjellebro",
+ "Auning",
+ "Borremose",
+ "Elling",
+ "Gadevang",
+ "Grauballe",
+ "Haraldskjaer",
+ "Hunnestad",
+ "Hogback",
+ "Snaptun",
+ "Altuna",
+ "Sövestad",
+ "Kalkriese",
+ "Nordendorf",
+ "Stånga",
+ "Gallehus",
+ "Funen",
+ "Spong Hill"
+
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

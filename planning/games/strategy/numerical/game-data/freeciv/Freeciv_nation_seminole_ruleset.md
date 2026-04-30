@@ -1,0 +1,147 @@
+# Freeciv(nation) · seminole
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/seminole.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的seminole定义
+
+## 正文
+```ruleset
+[nation_seminole] 
+
+name=_("Seminole") 
+plural=_("?plural:Seminoles") 
+groups="American", "Early Modern"
+legend=_("The Seminole people emerged in the 18th century through a\
+ process of ethnogenesis, out of groups of lower Creek emigrants who\
+ fled the encroachment of White settlers in the U.S. state of Georgia and\
+ elsewhere, south to the Florida peninsula which at that time was under\
+ Spanish control. They intermingled with remnants of other tribes plus\
+ a significant number of Black African freedmen. Seminole leaders\
+ sided with the United States during the so-called Seminole wars against\
+ Spain, the outcome of which was the ceding of Florida to the U.S., and\
+ the removal of a majority of Seminoles to Indian Territory in what is\
+ now Oklahoma. Together with the Cherokee, Choctaw, Muskogee, and\
+ Chickasaw, the Seminole are known as one of the \"Five Civilized\
+ Tribes\" for their relatively amiable relationships with White European\
+ settlers during the early era of U.S. expansion.")
+
+leaders = {
+ "name",                "sex"
+ "Alice Brown Davis",   "Female"
+ "John Brown",          "Male"
+ "Holata Micco",        "Male" ; Billy Bowlegs
+ "Osceola",             "Male"
+ "Micanopy",            "Male"
+ "Bolek",               "Male"
+ "King Payne",          "Male"
+ "Ahaya",               "Male" ; Cowkeeper
+}
+
+ruler_titles = {
+ "government",      "male_title",            "female_title"
+ "Monarchy",        _("Great Chief %s"),     _("?female:Great Chief %s")
+ "Republic",        _("Spokesman %s"),       _("Spokeswoman %s")
+ "Democracy",       _("Principal Chief %s"), _("?female:Principal Chief %s")
+ "Fundamentalism",  _("Shaman %s"),          _("?female:Shaman %s")
+}
+
+flag="seminole"
+flag_alt="-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations="muskogee", "chickasaw", "choctaw", "floridian" 
+
+cities =
+; principal town
+ "Cuscowilla",
+; various historic villages in Florida
+ "Pilatka",
+ "Wasupa",
+ "Chokoukla",
+ "Hatchcalamocha",
+ "Willanoucha",
+ "Chohalaboohhulka",
+ "Spanawatka",
+ "Weechitokha",
+ "Tuslalahockaka",
+ "Hitchitipusy",
+ "Apukasasocha",
+ "Hiamonee",
+ "Sarasota",
+ "Owassissas",
+ "Pilaklikaha",
+ "Ahapopka",
+ "Lochchiocha",
+ "Ahosulga",
+ "Jolee",
+ "Yolanar",
+ "Alouko",
+ "Notasulgar",
+ "Alafiers",
+ "Etanie",
+ "Oktahatke",
+ "Wakasassa",
+ "Totstalahoeetska",
+ "Etotulga",
+ "Phillimees",
+ "Ochisialgi",
+ "Mikasuki",
+ "Choconikla",
+ "Withlacoochee",
+ "Tuckagulga",
+ "Seleuxa",
+ "Loksachumpa",
+ "Withlacoocheetalofa",
+ "Wechotookme",
+ "Okehumpkee",
+ "Oponays",
+ "Toloawathla",
+ "Taluachapko-apopka",
+ "Ohathtokhouchy",
+ "Oclawaha",
+ "Ochuceulga",
+ "Suwanee",
+ "Attapulgas",
+ "Ochupocrassa",
+ "Talofa Okhase",
+ "Tohopekaliga",
+ "Homosassa",
+ "Yumersee",
+ "Capola",
+ "Hitchapuksassi",
+ "Sampala",
+ "Withlako",
+ "Alapaha",
+ "Sitarky",
+ "Wewoka",
+ "Alachua",
+ "Chiaha",
+ "Talahassee",
+ "Seccherpoga",
+ "Yalaka",
+ "Ocilla",
+ "Yalacasooche",
+ "Chetuckota",
+ "Picolata",
+ "Toponanaulka",
+ "Asapalaga",
+ "Welika",
+ "Toctoethla",
+ "Wacahoota",
+ "Chicuchatti",
+ "Calusahatchee",
+ "Cohowofooche",
+ "Tattowhehallys",
+ "Oclackonayahe"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

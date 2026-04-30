@@ -1,0 +1,18 @@
+{
+  "name": "验证校验",
+  "description": "对策划产出内容进行质量校验，包括叙事一致性和数值合理性",
+  "knowledge_entries": 2,
+  "sub_skills": [
+    "narrative_consistency_check",
+    "numerical_validation"
+  ],
+  "input_schema": {
+    "content": "待校验的策划文档或数值表",
+    "check_type": "narrative|numerical|all"
+  },
+  "output_schema": {
+    "report": "校验报告",
+    "issues": "问题清单",
+    "verdict": "通过/有风险/不通过"
+  }
+}

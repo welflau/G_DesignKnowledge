@@ -1,0 +1,138 @@
+# Freeciv(nation) · occitan
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/occitan.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的occitan定义
+
+## 正文
+```ruleset
+[nation_occitan]
+
+name=_("Occitan")
+plural=_("?plural:Occitans")
+groups="Medieval", "European"
+legend=_("Although Occitania never had a real political unity (it\
+ consisted of several counties and duchies in today's southern France),\
+ its culture enjoyed great prestige all over Europe during the 11th, 12th\
+ and 13th centuries, Occitan being the language of troubadours. Its\
+ religious freedom allowed the flourishing of Catharism, which was\
+ declared heretic by the Pope, and the French kings took advantage\
+ of the subsequent crusade to annex its territory.")
+
+leaders = {
+ "name",                        "sex"
+ "Raimon-Rogièr Trencavel",     "Male"
+ "Rogièr Bernat I",             "Male"
+ "Guilhèm de Gellona",          "Male"
+ "Raimon VI",                   "Male"
+ "Alienòr d'Aquitània",         "Female"
+ "Felipa Maude",                "Female"
+ "Frederic Mistral",            "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",          "female_title"
+ "Democracy",       _("Chancellor %s"),    _("?female:Chancellor %s")
+ "Despotism",       _("Viscount %s"),      _("Viscountess %s")
+ "Monarchy",        _("Grand Duke %s"),    _("Grand Duchess %s")
+ "Fundamentalism",  _("Bishop %s"),        _("?female:Bishop %s")
+}
+
+flag="occitania"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with = "French"
+civilwar_nations = "Catalan", "French", "Monegasque"
+
+cities =
+ "Tolosa",
+ "Marselha",
+ "Montpelhièr",
+ "Albi",
+ "Clarmont",
+ "Caors",
+ "Avinhon",
+ "Bordèu",
+ "Tolon",
+ "Niça",
+ "Ais de Provença",
+ "Limòtges",
+ "Mónegue",
+ "Nimes",
+ "Pau",
+ "Carcassona",
+ "Montsegur",
+ "Valença",
+ "Besièrs",
+ "Fois",
+ "Tarba",
+ "Montalban",
+ "Montluçon",
+ "Aush",
+ "Orlhac",
+ "Canas",
+ "Vielha",
+ "Agen",
+ "Vichèi",
+ "L'Argentièira",
+ "Privàs",
+ "Tornon ",
+ "Aigas Juntas",
+ "Las Bòrdas d'Arisa",
+ "Montferrièr",
+ "Montoliu",
+ "Peirosa",
+ "Montcarles",
+ "Menton",
+ "Antíbol",
+ "Canha de Mar",
+ "Lorda",
+ "Banhèras de Luishon",
+ "Vença",
+ "Malhana",
+ "Sant Tropetz",
+ "Periguers",
+ "Rabairac",
+ "Viana",
+ "Gap",
+ "Lo Mont",
+ "Brageirac",
+ "Grassa",
+ "Frejús",
+ "Draguinhan",
+ "La Sanha de Mar",
+ "Talença",
+ "Peçac",
+ "Briva",
+ "Castras",
+ "Aubanha",
+ "Arle",
+ "Anglet",
+ "Sant Rafèu",
+ "Selon de Provença",
+ "Seta",
+ "Vitròla",
+ "Sieis Forns lei Plaias",
+ "Narbona",
+ "Lo Martegue",
+ "Marinhana",
+ "Miramàs",
+ "Aigalieras",
+ "Manòsca",
+ "Pertús",
+ "Lo Puèi de Velai",
+ "Frontinhan"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

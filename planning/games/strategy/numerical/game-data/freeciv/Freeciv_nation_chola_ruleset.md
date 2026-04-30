@@ -1,0 +1,92 @@
+# Freeciv(nation) · chola
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/chola.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的chola定义
+
+## 正文
+```ruleset
+[nation_chola]
+
+name=_("Chola")
+plural=_("?plural:Cholas")
+groups="Asian", "Medieval"
+
+legend=_("The Cholas were a Tamil dynasty centered in southern India that\
+ was unusually influential in northern India. They began as a\
+ tributary state to the Pallavas, but in the 9th century their power began\
+ to grow. During the 11th century, they led expeditions against other\
+ Indian states as far north as Bengal, as well as against the Maldives, Sri\
+ Lanka and even the Indonesian kingdom of Sri Vijaya. They collapsed,\
+ however, in the 1250s as other southern Indian states rose up.")
+
+leaders = {
+ "name",                        "sex"
+ "Aditya I",                    "Male"
+ "Rajaraja Chola I",            "Male"
+ "Rajendra Chola II",           "Male"
+ "Kulothunga Chola III",        "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Despotism",       _("Raja %s"),      _("Rani %s")
+ "Monarchy",        _("Maharaja %s"),  _("Maharani %s")
+}
+
+flag         = "chola"
+flag_alt     = "-"
+style        = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "gupta", "lankese", "maldivian"
+
+cities =
+ "Thanjavur",
+ "Madurai",
+ "Negupatnam",
+ "Gangaikondacholapuram",
+ "Chidambaram",
+ "Kauchipuram",
+ "Anuradhapura",
+ "Srirangam",
+ "Polilur",
+ "Mamallapuram",
+ "Vengi",
+ "Raichur",
+ "Quilon",
+ "Kaveripattinam",
+ "Pazhaiyaarai",
+ "Uraiyur",
+ "Chennapatnam",
+ "Madraspatnam",
+ "Coimbatore",
+ "Ambattur",
+ "Erode",
+ "Tiruchirappalli",
+ "Salem",
+ "Alandur",
+ "Kumbakonam",
+ "Dindigul",
+ "Karur",
+ "Cuddalore",
+ "Pallavaram",
+ "Kanchipuram",
+ "Vellore",
+ "Pudukkottai",
+ "Nagercoil",
+ "Tirunelveli",
+ "Polonaruwa",
+ "Rohana"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

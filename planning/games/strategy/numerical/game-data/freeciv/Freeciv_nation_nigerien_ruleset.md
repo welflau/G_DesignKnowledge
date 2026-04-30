@@ -1,0 +1,95 @@
+# Freeciv(nation) · nigerien
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/nigerien.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的nigerien定义
+
+## 正文
+```ruleset
+[nation_nigerien]
+
+name = _("Nigerien")
+plural = _("?plural:Nigeriens")
+groups="African", "Modern"
+legend=_("Niger is a country in the Sahel region of West Africa, named\
+ after the Niger river. It achieved independence from France in 1960.\
+ Since then it has been ruled intermittently by civil and military\
+ governments. One of the poorest countries in the world, Niger ranks rock\
+ bottom in international rankings such as the Human Development Index.\
+ Niger has both the highest fertility rate and infant mortality rate in\
+ the world. Niger should not be confused with Nigeria.")
+
+leaders = {
+ "name",                        "sex"
+ "Hamani Diori",                "Male"
+ "Seyni Kountché",              "Male"
+ "Ali Saibou",                  "Male"
+ "Ibrahim Baré Maïnassara",     "Male"
+}
+ruler_titles = {
+ "government",      "male_title",         "female_title"
+ "Despotism",        _("Colonel %s"),     _("?female:Colonel %s")
+ "Fundamentalism",   _("Grand Mufti %s"), _("?female:Grand Mufti %s")
+}
+flag = "niger"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with="indian" ;similar flag
+civilwar_nations="fulani", "kanem-bornu", "songhai", "tuareg"
+
+cities =
+ "Niamey",
+ "Zinder",
+ "Maradi",
+ "Agadez",
+ "Tahoua",
+ "Tillabéry",
+ "Dosso",
+ "Diffa",
+ "Arlit",
+ "Birni N'Konni",
+ "Gaya",
+ "Tessaoua",
+ "Dogondoutchi",
+ "Madaoua",
+ "Mayahi",
+ "Téra",
+ "Mirrah",
+ "Magaria",
+ "N'Guigmi",
+ "Dakoro",
+ "Matameye",
+ "Illéla",
+ "Gouré",
+ "Tanout",
+ "Aguié",
+ "Abalak",
+ "Boboye",
+ "Filingué",
+ "Kollo",
+ "Guidan Roumdji",
+ "Tchorzérine",
+ "Say",
+ "Maïné-Soroa",
+ "Tchitabaraden",
+ "Madarounfa",
+ "Keita",
+ "Bouza",
+ "Ouallam",
+ "Loga",
+ "Bagountara"
+
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

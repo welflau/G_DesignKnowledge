@@ -1,0 +1,119 @@
+# Freeciv(nation) · chiapanec
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/chiapanec.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的chiapanec定义
+
+## 正文
+```ruleset
+[nation_chiapanec]
+
+name=_("Chiapanec")
+plural=_("?plural:Chiapanecs")
+groups="American"
+legend=_("Chiapas is a state in southern Mexico. It was governed from\
+ Guatemala during the colonial era, but in 1824, after a brief\
+ independence, it chose to join Mexico. Chiapas has a sizeable indigenous\
+ (predominantly Mayan) population. Much of Chiapas' history has been\
+ characterized by struggles between indigenous peasants and the mostly\
+ Ladino elite. The state's colonial cities, Mayan peoples and natural\
+ wealth have made it one of Mexico's major tourist destinations.")
+
+leaders = {
+ "name",                   "sex"
+ "Bartolomé de las Casas", "Male"
+ "Manuel José de Rojas",   "Male"
+ "José Diego Lara",        "Male"
+ "Pedro Díaz Cuscat",      "Male"
+ "Emilio Rabasa",          "Male"
+ "Belisario Domínguez",    "Male"
+ "Juan Sabines Gutiérrez", "Male"
+ "Marcos",                 "Male"
+ "Elba Esther Gordillo",   "Female"
+}
+
+flag="chiapas"
+flag_alt = "-"
+style = "Tropical"
+
+ruler_titles = {
+ "government",     "male_title",       "female_title"
+ "Communism",      _("Comandante %s"), _("Comandanta %s")
+ "Fundamentalism", _("Bishop %s"),     _("Mother Superior %s")
+ "Republic",       _("Governor %s"),   _("?female:Governor %s")
+}
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "mayan", "guatemalan"
+
+cities =
+ "San Cristóbal de las Casas",
+ "Tuxtla Gutiérrez",
+ "Tapachula",
+ "Chiapa de Corzo",
+ "Comitán",
+ "Palenque",
+ "Villaflores",
+ "Ocozocoautla",
+ "San Juan Chamula",
+ "Tonalá",
+ "Cintalapa",
+ "Huixtla",
+ "Ocosingo",
+ "Reforma",
+ "Berriozábal",
+ "Motozintla",
+ "Las Rosas",
+ "Las Margaritas",
+ "Mapastepec",
+ "Pijijiapan",
+ "Venustiano Carranza",
+ "Frontera Comalapa (river, jungle)",
+ "Yajalón",
+ "Cacahoatán",
+ "Pichucalco",
+ "Ciudad Hidalgo",
+ "Suchiapa",
+ "Acala",
+ "Teopisca",
+ "El Parral",
+ "Bochil",
+ "Puerto Madero (ocean)",
+ "Villa Corzo",
+ "San Fernando",
+ "Escuintla",
+ "Jiquipilas",
+ "Jaltenango",
+ "Simojovel",
+ "San Pedro Buenavista",
+ "Palestina",
+ "Comaltitlán",
+ "Pueblo Nuevo Solistahuacán",
+ "La Concordia",
+ "Tuxtla Chico",
+ "Huehuetán",
+ "Benemérito de las Américas",
+ "La Trinitaria",
+ "San Juan Cancuc",
+ "Chicomuselo",
+ "Frontera Corozal (river, jungle)",
+ "Amatenango del Valle (hills)",
+ "Oxchuc",
+ "Ciudad Cuauhtémoc",
+ "Chenalhó",
+ "Catazajá",
+ "Acteal",
+ "Lacanhá Chansayab",
+ "Chicoasén"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

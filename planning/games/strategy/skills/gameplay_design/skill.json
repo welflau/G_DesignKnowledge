@@ -1,0 +1,27 @@
+{
+  "id": "gameplay_design",
+  "name": "玩法策划",
+  "version": "1.0.0",
+  "description": "游戏玩法策划能力。覆盖核心循环设计、玩法机制选型、关卡设计、交互流程。",
+  "sub_skills": [
+    {
+      "id": "core_loop",
+      "name": "核心循环设计"
+    },
+    {
+      "id": "mechanics_selection",
+      "name": "玩法机制选型"
+    },
+    {
+      "id": "level_design",
+      "name": "关卡/地图设计"
+    }
+  ],
+  "knowledge_entries": 0,
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}

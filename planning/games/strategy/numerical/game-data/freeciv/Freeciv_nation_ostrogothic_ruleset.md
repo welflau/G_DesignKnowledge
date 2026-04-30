@@ -1,0 +1,121 @@
+# Freeciv(nation) · ostrogothic
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/ostrogothic.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的ostrogothic定义
+
+## 正文
+```ruleset
+[nation_ostrogothic] 
+
+name=_("Ostrogothic") 
+plural=_("?plural:Ostrogoths") 
+groups="Ancient", "Medieval", "European" 
+legend = _("The Ostrogoths or Greuthungi (meaning people of the steppe,\
+ in contrast to the Visigoths-Tervingi, living in the more wooded areas)\
+ were an East Germanic people, one of the two tribes of Goths. They\
+ conquered Italy from Odoacer and founded their kingdom there. In the 5th\
+ century the Ostrogothic kingdom was crushed by the Byzantines in a war\
+ that depopulated much of Italy.")
+
+leaders = {
+ "name",        "sex"
+ "Walamers",    "Male"
+ "Þiudamers",   "Male"
+ "Þiudareiks",  "Male"
+ "Amalaswinþa", "Female"
+ "Aþalareiks",  "Male"
+ "Þiudahaþus",  "Male"
+ "Weitigeisas", "Male"
+ "Hildibadus",  "Male"
+ "Herareiks",   "Male"
+ "Totila",      "Male"
+ "Þeia",        "Male"
+}
+
+ruler_titles = {
+ "government",        "male_title",       "female_title"
+ "Anarchy",           _("Usurper %s"),    _("?female:Usurper %s") 
+ "Fundamentalism",    _("Presbyter %s"),  _("?female:Presbyter %s") 
+ "Republic",          _("Consul %s"),     _("?female:Consul %s") 
+}
+
+flag= "valknut" 
+flag_alt = "-" 
+style = "Celtic" 
+
+init_techs="" 
+init_buildings="" 
+init_units="" 
+
+conflicts_with = "italian", "croatian", "slovenian", "bosnian-herzegovinian", "serbian",
+ "austrian", "illyrian" ; liburnian
+civilwar_nations="visigothic", "italian" ; liburnian
+
+cities =
+  "Ravenna",
+  "Roma",
+  "Aquileia",
+  "Ancona",
+  "Mediolanum",
+  "Genova",
+  "Spoletum",
+  "Beneventum",
+  "Padova",
+  "Bolonia",
+  "Salernum",
+  "Verona",
+  "Brundisium",
+  "Neapolis",
+  "Sirmium",
+  "Pietas Iulia",
+  "Arausona",
+  "Aequum",
+  "Apsorus",
+  "Acruvium",
+  "Aleta",
+  "Berginium",
+  "Burnum",
+  "Ausancali",
+  "Iader",
+  "Herona",
+  "Narona",
+  "Cremona",
+  "Sicum",
+  "Siparuntum",
+  "Ouporum",
+  "Enderum",
+  "Curcum",
+  "Concordia Sagittaria",
+  "Augusta Taurinorum",
+  "Monoecus",
+  "Nicaea",
+  "Acerrae",
+  "Longaricum",
+  "Feronia",
+  "Acerrae Vatriae",
+  "Alsium",
+  "Catania",
+  "Entelia",
+  "Antemnae",
+  "Tortona",
+  "Falerii Novi",
+  "Apiolae",
+  "Caenina",
+  "Aternum",
+  "Hispellum",
+  "Netum",
+  "Saepinum",
+  "Augusta Bagiennorum",
+  "Bovillae",
+  "Ulubrae",
+  "Sentinum"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

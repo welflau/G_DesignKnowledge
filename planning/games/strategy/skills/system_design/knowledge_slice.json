@@ -1,0 +1,593 @@
+[
+  {
+    "path": "system/combat-system/GDD模板_14_AI-Assisted Design.md",
+    "title": "GDD模板 · 14 AI-Assisted Design",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/combat-system/GDD模板_4_Gameplay and Mechanics.md",
+    "title": "GDD模板 · 4 Gameplay and Mechanics",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/combat-system/GDD模板_mvp_gameplay_video_guide.md",
+    "title": "GDD模板 · mvp gameplay video guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_10_Game Art.md",
+    "title": "GDD模板 · 10 Game Art",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_11_Secondary Software.md",
+    "title": "GDD模板 · 11 Secondary Software",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_12_Management.md",
+    "title": "GDD模板 · 12 Management",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_13_Appendices.md",
+    "title": "GDD模板 · 13 Appendices",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_15_Game Type Adaptation.md",
+    "title": "GDD模板 · 15 Game Type Adaptation",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_1_Copyright Information.md",
+    "title": "GDD模板 · 1 Copyright Information",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_2_Version History.md",
+    "title": "GDD模板 · 2 Version History",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_3_Game Overview.md",
+    "title": "GDD模板 · 3 Game Overview",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_3d_model_production_guide.md",
+    "title": "GDD模板 · 3d model production guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_5_Story, Setting and Character.md",
+    "title": "GDD模板 · 5 Story, Setting and Character",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_6_Levels.md",
+    "title": "GDD模板 · 6 Levels",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_7_Interface.md",
+    "title": "GDD模板 · 7 Interface",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_8_Artificial Intelligence.md",
+    "title": "GDD模板 · 8 Artificial Intelligence",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_9_Technical.md",
+    "title": "GDD模板 · 9 Technical",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_CHANGELOG.md",
+    "title": "GDD模板 · CHANGELOG",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_README-zh.md",
+    "title": "GDD模板 · README-zh",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_README.md",
+    "title": "GDD模板 · README",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_SmallerTableOfContents.md",
+    "title": "GDD模板 · SmallerTableOfContents",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板__Sidebar.md",
+    "title": "GDD模板 ·  Sidebar",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_api_video_generation_guide.md",
+    "title": "GDD模板 · api video generation guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_asset_extraction_guide.md",
+    "title": "GDD模板 · asset extraction guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_asset_list_template.md",
+    "title": "GDD模板 · asset list template",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_audio_asset_production_guide.md",
+    "title": "GDD模板 · audio asset production guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_enhanced_gdd_structure_integration.md",
+    "title": "GDD模板 · enhanced gdd structure integration",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_fx_particle_production_guide.md",
+    "title": "GDD模板 · fx particle production guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_gacha_animation_spec.md",
+    "title": "GDD模板 · gacha animation spec",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_gacha_animation_storyboard.md",
+    "title": "GDD模板 · gacha animation storyboard",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_game-category-list.md",
+    "title": "GDD模板 · game-category-list",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_gdd_deliverable_structure.md",
+    "title": "GDD模板 · gdd deliverable structure",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_idea_to_playable_workflow.md",
+    "title": "GDD模板 · idea to playable workflow",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_image_asset_production_guide.md",
+    "title": "GDD模板 · image asset production guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_image_sequence_guide.md",
+    "title": "GDD模板 · image sequence guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_interface_screen_storyboard_guide.md",
+    "title": "GDD模板 · interface screen storyboard guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_interface_screen_storyboard_template.md",
+    "title": "GDD模板 · interface screen storyboard template",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_mission_planning_framework.md",
+    "title": "GDD模板 · mission planning framework",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_monetization_planning_framework.md",
+    "title": "GDD模板 · monetization planning framework",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_narrative_coherence_framework.md",
+    "title": "GDD模板 · narrative coherence framework",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_numerical_planning_framework.md",
+    "title": "GDD模板 · numerical planning framework",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_playable_ad_video_guide.md",
+    "title": "GDD模板 · playable ad video guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_raw-discussions.md",
+    "title": "GDD模板 · raw-discussions",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_role_responsibility_matrix.md",
+    "title": "GDD模板 · role responsibility matrix",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_skill_planning_framework.md",
+    "title": "GDD模板 · skill planning framework",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_sprite_sheet_production_guide.md",
+    "title": "GDD模板 · sprite sheet production guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_storyboard_for_image_sequence_assets.md",
+    "title": "GDD模板 · storyboard for image sequence assets",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_storyboard_for_video_assets.md",
+    "title": "GDD模板 · storyboard for video assets",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_storyboard_structured_prompt.md",
+    "title": "GDD模板 · storyboard structured prompt",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_system_architecture_framework.md",
+    "title": "GDD模板 · system architecture framework",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_ui_element_production_guide.md",
+    "title": "GDD模板 · ui element production guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_universal_storyboard_method.md",
+    "title": "GDD模板 · universal storyboard method",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_vfx_discussion.md",
+    "title": "GDD模板 · vfx discussion",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_video_asset_guide.md",
+    "title": "GDD模板 · video asset guide",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_video_storyboard_template.md",
+    "title": "GDD模板 · video storyboard template",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_游戏世界观构建.md",
+    "title": "GDD模板 · 游戏世界观构建",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_游戏好玩吗.md",
+    "title": "GDD模板 · 游戏好玩吗",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/GDD模板_策划优化.md",
+    "title": "GDD模板 · 策划优化",
+    "tags": [
+      "GDD",
+      "系统设计",
+      "模板"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/天道记忆_天道执行手册-完整版.md",
+    "title": "策划记忆 · 天道执行手册-完整版",
+    "tags": [
+      "系统框架"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/天道记忆_天道执行手册-聚焦版.md",
+    "title": "策划记忆 · 天道执行手册-聚焦版",
+    "tags": [
+      "系统框架"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/天道记忆_天道框架.md",
+    "title": "策划记忆 · 天道框架",
+    "tags": [
+      "系统框架"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/天道记忆_记忆导入-天道助手.md",
+    "title": "策划记忆 · 记忆导入-天道助手",
+    "tags": [
+      "系统框架"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/天道记忆_记忆导入-文字修仙游戏.md",
+    "title": "策划记忆 · 记忆导入-文字修仙游戏",
+    "tags": [
+      "系统框架"
+    ]
+  },
+  {
+    "path": "system/gdd-templates/天道记忆_记忆导入-文案策划师.md",
+    "title": "策划记忆 · 记忆导入-文案策划师",
+    "tags": [
+      "文案策划"
+    ]
+  },
+  {
+    "path": "system/slg-modules/SLG实战_SPQR_SLG.md",
+    "title": "SLG实战项目 · 罗马帝国SLG(Python)",
+    "tags": [
+      "SLG",
+      "开源项目",
+      "系统实现"
+    ]
+  },
+  {
+    "path": "system/slg-modules/SLG实战_slgserver.md",
+    "title": "SLG实战项目 · 三国SLG服务器(Go)",
+    "tags": [
+      "SLG",
+      "开源项目",
+      "系统实现"
+    ]
+  },
+  {
+    "path": "system/slg-modules/SLG实战_three-kingdoms-slg-service.md",
+    "title": "SLG实战项目 · 三国SLG微服务(Go+gRPC)",
+    "tags": [
+      "SLG",
+      "开源项目",
+      "系统实现"
+    ]
+  }
+]

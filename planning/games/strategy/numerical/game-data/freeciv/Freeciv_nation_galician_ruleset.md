@@ -1,0 +1,65 @@
+# Freeciv(nation) · galician
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/galician.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的galician定义
+
+## 正文
+```ruleset
+[nation_galician]
+
+name=_("Galician")
+plural=_("?plural:Galicians")
+groups="Medieval", "European"
+legend=_("Galicia is a region in the northwest of Spain, just above\
+ Portugal.")
+
+leaders = {
+ "name",                "sex"
+ "Afonso",              "Male"
+ "Diego Xelmírez",      "Male"
+ "Hermerico",           "Male"
+ "Pero Pardo de Cela",  "Male"
+ "Rosalía de Castro",   "Female"
+ "Manuel",              "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Despotism",       _("Lord %s"),           _("Lady %s")
+ "Fundamentalism",  _("Bishop %s"),         _("Mother Superior %s")
+}
+
+flag="galicia"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations="portuguese", "asturian"
+
+cities =
+  "Santiago de Compostela", "A Coruña", "Vigo", "Lugo", "Pontevedra",
+  "Ourense", "Ferrol", "Mondoñedo", "Tui", "Betanzos", "Ribadeo",
+  "Santa Uxía de Riveira", "Narón", "A Guardia", 
+  "O Barco de Valdeorras", "Ribadeo", "Carballo", "Padrón", "Laracha", 
+  "Ares", "Viveiro", "Foz", "Burela", "Póboa do Caramiñal", "Verín",
+  "Arteixo", "Malpica", "Laxe", "Baiona", "Allariz", "Arzúa", "Bueu",
+  "A Estrada", "Monforte de Lemos", "Mugardos", "Porriño", "Redondela",
+  "Sarria", "Xinzo de Limia", "Caldas de Reis", "Pontedeume", "Cee",
+  "Fisterra", "Vilalba", "Sada", "Rianxo", "Corcubión", "Cangas",
+  "Ortigueira", "Melide", "Camariñas", "Negreira", "Noia", "O Grove",
+  "Muros", "As Pontes de García Rodríguez", "Vilagarcía de Arousa",
+  "Celanova", "Cambados", "Ordes", "Porto do Son", "Lalín", "O Carballiño",
+  "A Rúa", "Cariño", "Póboa de Trives", "Chantada", "Ponteareas", 
+  "Marín", "Monfero", "Ponteceso", "Guitiriz", "Xove", "Carral"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

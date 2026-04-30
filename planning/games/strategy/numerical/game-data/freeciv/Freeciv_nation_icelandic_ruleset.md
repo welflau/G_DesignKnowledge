@@ -1,0 +1,105 @@
+# Freeciv(nation) · icelandic
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/icelandic.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的icelandic定义
+
+## 正文
+```ruleset
+[nation_icelandic]
+
+name=_("Icelandic")
+plural=_("?plural:Icelanders")
+groups="Modern", "European"
+legend=_("Iceland was long one of the largest uninhabited islands in the\
+ world, until it was settled by Norwegian Vikings in the\
+ late 9th century. The island was kept initially under the Norwegian and\
+ later the Danish crown until independence from Denmark in 1944.")
+
+leaders = {
+ "name",                        "sex"
+ "Jón Sigurdsson",              "Male"
+ "Ingólfur Arnarson",           "Male"
+ "Sveinn Björnsson",            "Male"
+ "Ásgeir Ásgeirsson",           "Male"
+ "Kristján Eldjárn",            "Male"
+ "Vigdís Finnbogadóttir",       "Female"
+}
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Despotism",       _("Earl %s"),           _("?female:Earl %s")
+ "Fundamentalism",  _("Bishop %s"),         _("?female:Bishop %s")
+}
+flag="iceland"
+flag_alt = "norway"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "danish", "faroese"
+
+cities =
+    "Reykjavík",
+    "Akureyri",
+    "Hafnarfjörður",
+    "Kópavogur",
+    "Akranes",
+    "Borgarnes",
+    "Dalvík",
+    "Egilsstaðir",
+    "Garðabær",
+    "Grindavik",
+    "Höfn",
+    "Húsavík",
+    "Hveragerði",
+    "Ísafjörður",
+    "Keflavík",
+    "Mosfellsbær",
+    "Neskaupsstaður",
+    "Njarðvík",
+    "Ólafsvík",
+    "Sauðárkrókur",
+    "Selfoss",
+    "Siglufjörður",
+    "Stykkishólmur",
+    "Vestmannaeyjar",
+    "Þorlákshöfn",
+    "Bíldudalur",
+    "Blönduós",
+    "Bolungarvík",
+    "Breiðdalsvík",
+    "Búðardalur",
+    "Djúpivogur",
+    "Djúpavík",
+    "Drangsnes",
+    "Eskifjörður",
+    "Eyrarbakki",
+    "Fáskrúðsfjörður",
+    "Garður",
+    "Hella",
+    "Hólar",
+    "Hólmavík",
+    "Hvammstangi",
+    "Hvolsvöllur",
+    "Kirkjubæjarklaustur",
+    "Mjóifjörður",
+    "Ólafsfjörður",
+    "Reyðarfjörður",
+    "Reykholt",
+    "Seyðisfjörður",
+    "Skálholt",
+    "Skógar",
+    "Stokkseyri",
+    "Stöðvarfjörður",
+    "Vík í Mýrdal",
+    "Vogar"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

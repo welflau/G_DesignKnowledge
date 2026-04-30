@@ -1,0 +1,19 @@
+{
+  "id": "genre_knowledge",
+  "name": "品类知识",
+  "version": "1.0.0",
+  "description": "游戏品类专业知识。当前已覆盖SLG品类，后续扩展肉鸽、卡牌等。",
+  "sub_skills": [
+    {
+      "id": "slg_knowledge",
+      "name": "SLG品类知识"
+    }
+  ],
+  "knowledge_entries": 134,
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}

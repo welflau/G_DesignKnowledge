@@ -1,0 +1,101 @@
+# Freeciv(nation) · curonian
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/curonian.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的curonian定义
+
+## 正文
+```ruleset
+[nation_curonian] 
+
+name=_("Curonian") 
+plural=_("?plural:Curonians") 
+groups="Medieval", "Early Modern", "European" 
+legend=_("The Duchy of Courland and Semigallia was created as the result\
+ of the secularization of the Teutonic Order State. The dukes of Courland\
+ were vassals of Poland until its collapse. Duke Jakob Kettler led the\
+ failed attempts of colonization in South America and Africa.")
+
+leaders = {
+ "name",                        "sex"
+ "Martin Lewitz",               "Male"
+ "Heinrich Basedow",            "Male"
+ "Hermann Ronneberg",           "Male"
+ "Gotthard Kettler",            "Male"
+ "Friedrich Kettler",           "Male"
+ "Jakob Kettler",               "Male"
+ "Friedrich Kasimir Kettler",   "Male"
+ "Friedrich Wilhelm Kettler",   "Male"
+ "Ferdinand Kettler",           "Male"
+ "Ernst Johann Biron",          "Male"
+ "Peter von Biron",             "Male"
+ "Dorothea von Medem",          "Female"
+}
+
+ruler_titles = {
+ "government",     "male_title",          "female_title"
+ "Despotism",      _("Duke %s"),          _("Duchess %s")
+ "Fundamentalism", _("Bishop %s"),        _("Mother Superior %s")
+ "Monarchy",       _("Grand Duke %s"),    _("Grand Duchess %s")
+}
+
+flag= "courland" 
+flag_alt = "-" 
+style = "European" 
+
+init_techs="" 
+init_buildings="" 
+init_units="" 
+
+conflicts_with="latvian", "indonesian" ;latter because of similar flag
+civilwar_nations="teutonic", "latvian",
+
+;colonies
+"gambian", "trinidadian and tobagonian"
+
+cities=
+  "Mitau",
+  "Goldingen",
+  "Windau",
+  "Pilten",
+  "Libau",
+  "Dünaburg",
+  "Jakobstadt",
+  "Grobin",
+  "Hasenpoth",
+  "Frauenburg",
+  "Paulshafen",
+  "Tuckum",
+  "Talsen",
+  "Ascheraden",
+  "Kokenhausen",
+  "Doblen",
+  "Illuxt",
+  "Bauske",
+  "Kirchholm",
+  "Alt-Autz",
+  "Stockmannshof",
+  "Berghof",
+  "Zabeln",
+  "Eckengrafen",
+  "Illuxt",
+  "Schrunden",
+  "Saßmacken",
+  "Kalnzeem",
+  "Friedrichstadt",
+  "Preekuln",
+  "Oknist",
+  "Stenden",
+  "Pilten",
+  "Paulshafen",
+  "Subbath",
+  "Durben"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

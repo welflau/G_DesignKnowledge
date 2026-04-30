@@ -1,0 +1,98 @@
+# 碧蓝航线 · README
+
+> 来源：MrLar/AzurLaneData
+> 原始链接：https://github.com/MrLar/AzurLaneData/blob/master/README.md
+> 分类：numerical
+> 标签：碧蓝航线, 数据解包, 舰船属性
+
+## 概述
+碧蓝航线数据文档：README
+
+## 正文
+# Notice
+Due to a lack of interest in both the game and datamining
+not all of the data provided here will be updated going forward.
+
+The following will still be updated:
+- ships, ships\_words, ship\_retro_cost
+- skills
+- augments, augment\_cost
+- equipments, equip\_upgrade\_cost, default\_equips
+- fleet\_tech\_sort
+- skins
+
+The following will occasionally update:
+- cruise\_passes
+- equip\_drops
+- ship\_drops
+- gear\_lab
+- gear\_skins
+- items
+- maps
+- meowfficers, meowfficer\_abilities
+- tech\_groups
+
+The following will NOT be updated at all:
+- any and all island content
+- any and all dorm3d content
+- barrages
+- juu\_chats, juu\_profiles
+- shops
+- special\_weapons
+- special\_secretaries
+- research\_projects
+
+
+# Intro
+
+This repository contains data that
+fuels [Azur Lane Calculator](https://azurlane.mrlar.dev/calculator)
+and [Azur Lane Database](https://azurlane.mrlar.dev/db).
+
+Please make sure to read the [License](LICENSE.md) file as well as the [License Section](#license)
+before using this data.
+
+# Reason for this Repository
+
+Unlike the actual source of the aforementioned projects, this data may be of use to
+others. This repository exists to encourage people to use this data to build
+APIs, Applets, Websites or other Azur Lane related programms. While this repository and the
+data in it have a clear focus in mind there is no harm in expanding it further
+(Just ask if you need something not already covered!).
+
+Additionally, providing this data allows people who spot issues to point them out.
+Do note that, opening PRs to fix them usually does not help,
+as the data is built using custom parser - which at the moment remain close sourced.
+
+# Documentation
+
+You can find your way around the JSON files using the [documentation](https://azurlane.mrlar.dev/AzurLaneData).
+
+# Credits
+
+## Azur Lane
+
+Azur Lane and all related
+copyrights/assets used in this repository and its files
+are the property of Manjuu, Xiamen Yongshi and Yostar Inc. respectively.
+
+All data provided by the JSON files are a **derivative** of some of the game assets
+of Azur Lane. The three entities named
+above retain the right to request the removal of this project at any time.
+
+## Barrages
+
+Data for barrages before Feburary 2025 is *partially* derived from previous mining done by Riceist. The original
+data can be found [here](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
+
+The data found here provides additional info, corrects some oddities and maps barrages by skill ids rather
+than ships. Descriptions (especially buff descriptions) have mostly been altered.
+
+# License
+
+This data is provided under the [MIT license](LICENSE.md). However, on top of following the license
+you **must** credit Manjuu, Yongshi and Yostar Inc.
+
+
+## 策划参考价值
+舰船属性成长率/强化/装备数值体系参考。

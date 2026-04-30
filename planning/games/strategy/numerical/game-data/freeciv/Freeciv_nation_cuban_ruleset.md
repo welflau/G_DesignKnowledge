@@ -1,0 +1,86 @@
+# Freeciv(nation) · cuban
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/cuban.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的cuban定义
+
+## 正文
+```ruleset
+[nation_cuban]
+
+name=_("Cuban")
+plural=_("?plural:Cubans")
+groups="Modern", "American"
+legend=_("Cuba came under Spanish control in the 16th century. In the\
+ following centuries, the island became one of the leading producers of\
+ tobacco, sugar and coffee in the world. Cuba was granted nominal\
+ independence in 1902.")
+
+leaders = {
+ "name",                "sex"
+ "José Martí",          "Male"
+ "Fulgencio Batista",   "Male"
+ "Camilo Cienfuegos",   "Male"
+ "Ernesto Che Guevara", "Male"
+ "Fidel Castro",        "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Communism",      _("Comandante %s"), _("Comandanta %s")
+ "Despotism",      _("Caudillo %s"),   _("Caudilla %s")
+ "Fundamentalism", _("Cardinal %s"),   _("Mother Superior %s")
+}
+
+flag="cuba"
+flag_alt = "-"
+style = "Classical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "dominicano", "venezuelan", "taino"
+
+cities =
+  "La Habana",
+  "Camagüey",
+  "Guantánamo",
+  "Santiago de Cuba",
+  "Pedro Betancourt",
+  "Artemisa",
+  "Matanzas",
+  "Las Tunas",
+  "Manzanillo",
+  "Colón",
+  "Santa Clara",
+  "Trinidad",
+  "Morón",
+  "Cienfuegos",
+  "Holguín",
+  "Pinar del Río",
+  "Placetas",
+  "Bayamo",
+  "Ciego de Ávila",
+  "Sancti Spíritus",
+  "Manzanillo",
+  "Cárdenas",
+  "Palma Soriano",
+  "Moa",
+  "Mayarí",
+  "Nueva Gerona",
+  "Contramaestre",
+  "Consolación del Sur",
+  "Florida",
+  "Puerto Padre",
+  "Güines",
+  "San Luis",
+  "San Cristóbal"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

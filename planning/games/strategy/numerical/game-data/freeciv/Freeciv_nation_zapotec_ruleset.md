@@ -1,0 +1,105 @@
+# Freeciv(nation) · zapotec
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/zapotec.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的zapotec定义
+
+## 正文
+```ruleset
+[nation_zapotec]
+
+name=_("Zapotec")
+plural=_("?plural:Zapotecs")
+groups="Ancient", "Medieval", "American"
+legend=_("The Zapotecs or Binnizá live in the Mexican state of Oaxaca.\
+ They formed one of the oldest and most resilient Mesoamerican\
+ civilizations. The most notable Zapotec center, Monte Albán, was built\
+ on a razed mountain top. Benito Juárez, Mexico's first indigenous\
+ president, was a Zapotec.")
+
+leaders = {
+ "name",                "sex"
+ "Za'achila II",        "Male"
+ "Za'achila III",       "Male"
+ "Cosijoeza",           "Male"
+ "Cosijopí Sicasibí",   "Male"
+ "Bino Gada",           "Male"
+ "Heliodoro Charis",    "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Despotism",       _("Lord %s"),      _("Lady %s")
+}
+
+flag="zapotec"
+flag_alt = "mexico"
+style = "Babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "mixtec", "aztec"
+
+cities =
+ "Lyobáa", ;Mitla
+ "Guilá", ;Monte Albán
+ "Za'achila", ;Zaachila
+ "Guiengola", ;Guiengola
+ "Dainzú", ;Dainzú
+ "Yagul", ;Yagul
+ "Lambityeco", ;Lambityeco
+ "Xabizende", ;Juchitán de Zaragoza
+ "Guisíi", ;Santo Domingo Tehuantepec
+ "La'a", ;Oaxaca
+ "Ike Sidi Biá", ;Salina Cruz
+ "Guielatao", ;Gueletao
+ "Denicahue", ;San Pedro Mixtepec
+ "Quialana", ;San Bartolomé Quialana
+ "Quiaduni", ;San Pedro Quiatoni
+ "Tavela", ;Santa Ana Tavela
+ "I'iya Reni", ;Santa Ana Yareni
+ "Zoogocho", ;San Bartolomé Zoogocho
+ "Guichicovi", ;San Juan Guichicovi
+ "Guie'e Via", ;Guevea de Humboldt
+ "Lohoxicha", ;Candelaria Loxicha
+ "Guetareni", ;San Agustín Yatareni
+ "Zavaache", ;San Andrés Zabache
+ "Lachigoloó", ;San Francisco Lachigoló
+ "Lohogueche", ;San Francisco Logueche
+ "Lachiguiriac", ;San José Lachiguiri
+ "Guelpalachi", ;San Juan Bautista Guelache
+ "Lachigallo", ;San Juan Lachigalla
+ "Quiguixí", ;San Juan Quiahije
+ "Yaee", ;San Juan Yaee
+ "Ya Tzona", ;San Juan Yatzona
+ "Quiaviní", ;San Lucas Quiaviní
+ "Lachilaá", ;San Martín Lachila
+ "Yuo Dao", ;San Miguel Yotao
+ "Yaganiza", ;San Pablo Yaganiza
+ "Quiechapa", ;San Pedro Mártir Quiechapa
+ "Zetgache", ;Santa Ana Zegache
+ "Quieri", ;Santa Catarina Quieri
+ "Latzi Zaatoo", ;Santa Catarina Lachatao
+ "Quiané", ;Santa Catarina Quiané
+ "Quioquitani", ;Santa Catarina Quioquitani
+ "Guelaxeé", ;Santa María Guelacé
+ "Guienagati", ;Santa María Guienagati
+ "Lachiguiri", ;Santiago Lachiguiri
+ "Xanica", ;Santiago Xanica
+ "Xiacui", ;Santiago Xiacui
+ "Yaveo", ;Santiago Yaveo
+ "Yorxchixil", ;Santiago Zoochila
+ "Xeguevcia", ;Xagacia
+ "Xanalieza", ;Santo Tomás Jalieza
+ "Yaaxe" ;Yaxe
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

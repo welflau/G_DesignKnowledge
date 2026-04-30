@@ -1,0 +1,86 @@
+# Freeciv(nation) · lankese
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/lankese.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的lankese定义
+
+## 正文
+```ruleset
+[nation_lankese]
+
+name=_("Lankese")
+plural=_("?plural:Lankese")
+groups="Modern", "Asian"
+legend=_("Prince Vijaya came to Sri Lanka from Orissa, in north-eastern\
+ India, during the 6th century BCE and founded the Sinhalese kingdom there.\
+ During British colonialism the country was known as Ceylon.")
+
+leaders = {
+ "name",                  "sex"
+ "Vijaya",                "Male"
+ "Kasyapa",               "Male"
+ "Parakramabahu I",       "Male"
+ "Sirimavo Bandaranaike", "Female"
+ "J.R. Jayewardene",      "Male"
+}
+
+ruler_titles = {
+ "government",   "male_title",                "female_title"
+ "Despotism",    _("Prince %s"),              _("Princess %s")
+ "Republic",     _("Executive President %s"), _("?female:Executive President %s")
+ "Communism",    _("Supreme Commander %s"),   _("?female:Supreme Commander %s")
+}
+
+flag="srilanka"
+flag_alt = "-"
+style = "Asian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "indian", "sinhalese"
+
+cities =
+ "Colombo",
+ "Sri Jayewardenepura",
+ "Kandy",
+ "Gimhathiththa",
+ "Jaffna",
+ "Kitulgala",
+ "Nuwara Eliya",
+ "Sigiriya",
+ "Trincomalee",
+ "Valvettithurai",
+ "Batticaloa",
+ "Dehiwala",
+ "Mount Lavinia",
+ "Matale",
+ "Moratuwa",
+ "Negombo",
+ "Ratnapura",
+ "Hambantota",
+ "Badulla",
+ "Puttalama",
+ "Kalpitiya",
+ "Mannar",
+ "Gampaha",
+ "Kurunegala",
+ "Kalutara",
+ "Galle",
+ "Matara",
+ "Anuradhapura",
+ "Kegalla",
+ "Amparai",
+ "Monaragala",
+ "Vavuniya",
+ "Kilinochchi"
+
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

@@ -1,0 +1,31 @@
+{
+  "id": "system_design",
+  "name": "系统策划",
+  "version": "1.0.0",
+  "description": "游戏系统策划能力。覆盖GDD文档生成、系统架构设计、功能模块拆解、战斗系统设计、SLG模块设计。",
+  "sub_skills": [
+    {
+      "id": "gdd_generation",
+      "name": "GDD文档生成"
+    },
+    {
+      "id": "system_architecture",
+      "name": "系统架构设计"
+    },
+    {
+      "id": "module_design",
+      "name": "功能模块设计"
+    },
+    {
+      "id": "slg_system",
+      "name": "SLG专属系统"
+    }
+  ],
+  "knowledge_entries": 86,
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}

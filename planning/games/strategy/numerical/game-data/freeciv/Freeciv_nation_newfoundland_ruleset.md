@@ -1,0 +1,169 @@
+# Freeciv(nation) · newfoundland
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/newfoundland.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的newfoundland定义
+
+## 正文
+```ruleset
+[nation_newfoundlander]
+
+name=_("Newfoundland")
+plural=_("?plural:Newfoundlanders")
+groups="American"
+
+legend=_("In precolumbian times Newfoundland and Labrador were settled\
+ by the Beothuk, though around 1000 CE for a short time Vikings also\
+ settled there. From the late 15th century onward Newfoundland was visited\
+ by the Portuguese and English. England and France contested the island\
+ until 1713, when France relinquished its claims. Newfoundland became a\
+ dominion in 1907. Badly hit by the Great Depression, in 1934 it\
+ voluntarily surrendered its sovereignty to the UK. Newfoundland passed\
+ to Canada in 1949; currently it is known as the Province of Newfoundland\
+ and Labrador.")
+
+leaders = {
+ "name",                        "sex"
+ "Thorfinn Karlsefni",          "Male"
+ "Freydís Eiríksdóttir",        "Female"
+ "David Kirke",                 "Male"
+ "Philip Francis Little",       "Male"
+ "William Whiteway",            "Male"
+ "Robert Bond",                 "Male"
+ "Richard Squires",             "Male"
+ "Joey Smallwood",              "Male"
+ "Brian Peckford",              "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Fundamentalism",  _("Bishop %s"),         _("?female:Bishop %s")
+}
+
+flag="newfoundland"
+flag_alt = "canada_old"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations= "british", "cree", "acadian"
+
+cities =
+ "St. John's",
+ "Corner Brook",
+ "Grand Falls-Windsor",
+ "Bay Roberts",
+ "Gander",
+ "Labrador City",
+ "Carbonear",
+ "Happy Valley-Goose Bay (ocean)",
+ "Stephenville",
+ "Goulds",
+ "Deer Lake (lake)",
+ "Clarenville-Shoal Harbour (ocean)",
+ "Channel-Port aux Basques (ocean)",
+ "Marystown",
+ "Bonavista",
+ "Bishop's Falls",
+ "Botwood",
+ "Lewisporte",
+ "Dunville",
+ "Springdale",
+ "Pasadena",
+ "Grand Bank (ocean)",
+ "Saint Anthony",
+ "Wabana",
+ "Harbour Breton (ocean)",
+ "Gambo",
+ "Burgeo",
+ "Humber Arm South",
+ "Stephenville Crossing",
+ "Arnold's Cove",
+ "Fortune",
+ "Musgrave Harbour (ocean)",
+ "Nain",
+ "Dildo",
+ "Harbour Main–Chapel's Cove (ocean)",
+ "Buchans",
+ "Harbour Grace (ocean)",
+ "Trinity Bay North (ocean)",
+ "Upper Island Cove (ocean)",
+ "St. Anthony",
+ "Dover",
+ "Victoria",
+ "Witless Bay (ocean)",
+ "Spaniard's Bay (ocean)",
+ "Massey Drive",
+ "Placentia",
+ "McIvers",
+ "Joe Batt's Arm-Barr'd Islands (ocean)",
+ "Lark Harbour (ocean)",
+ "Norman's Cove-Long Cove",
+ "Torbay",
+ "Conception Bay South (ocean)",
+ "King's Point",
+ "Paradise",
+ "Hare Bay (ocean)",
+ "Makkovik",
+ "Heart's Delight-Islington",
+ "Fogo",
+ "Avondale",
+ "Norris Arm",
+ "Cow Head",
+ "St. George's",
+ "Hopedale",
+ "Carmanville",
+ "Ferryland",
+ "North West River",
+ "Badger",
+ "Irishtown–Summerside",
+ "Musgravetown",
+ "St. Lawrence",
+ "Baie Verte (ocean)",
+ "Conception Harbour (ocean)",
+ "Milltown–Head of Bay d'Espoir (ocean)",
+ "Point Leamington",
+ "Glovertown",
+ "Kippens",
+ "Appleton",
+ "Twillingate",
+ "Logy Bay–Middle Cove (ocean)",
+ "Burin",
+ "Cupids",
+ "L'Anse aux Meadows",
+ "Mount Moriah",
+ "Holyrood",
+ "Wabush",
+ "Glenwood",
+ "Portugal Cove",
+ "Garnish",
+ "Chapel Arm",
+ "Flatrock",
+ "New-Wes-Valley",
+ "North River",
+ "St. Bernard's-Jacques Fontaine",
+ "Whitbourne",
+ "Brigus",
+ "Cox' Cove",
+ "Peterview",
+ "Petty Harbour–Maddox Cove (ocean)",
+ "St. Alban's",
+ "Centreville-Wareham-Trinity",
+ "La Scie",
+ "Bay Bulls (ocean)",
+ "Isle aux Morts (ocean)",
+ "Meadows",
+ "Rocky Harbour (ocean)"
+
+
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

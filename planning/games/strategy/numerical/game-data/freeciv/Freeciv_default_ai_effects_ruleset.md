@@ -1,0 +1,145 @@
+# Freeciv(default) · ai_effects
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/default/ai_effects.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, default
+
+## 概述
+Freeciv default规则集的ai_effects定义
+
+## 正文
+```ruleset
+; Modifying this file:
+; You should not modify this file except to make bugfixes or
+; for other "maintenance".  If you want to make custom changes,
+; you should create a new datadir subdirectory and copy this file
+; into that directory, and then modify that copy.  Then use the
+; command "rulesetdir <mysubdir>" in the server to have Freeciv21
+; use your new customized file. Note that this file is not read
+; directly, but only through *include* in effects.ruleset
+
+; Note that the Freeciv21 AI may not cope well with anything more
+; than minor changes.
+
+; /* <-- avoid gettext warnings
+; */ <-- avoid gettext warnings
+
+[effect_ai_cheat_no_max_rates]
+type    = "Max_Rates"
+value   = 100
+reqs    =
+    { "type", "name", "range"
+      "AI", "Cheating", "Player"
+    }
+
+[effect_ai_cheat_science]
+type    = "Output_Bonus"
+value   = 40
+reqs    =
+    { "type", "name", "range"
+      "AI", "Cheating", "Player"
+      "OutputType", "Science", "Local"
+    }
+
+[effect_ai_cheat_happiness]
+type    = "Make_Content"
+value	= 1
+reqs	=
+    { "type", "name", "range"
+      "AI", "Cheating", "Player"
+    }
+
+[effect_ai_cheat_pollution]
+type    = "Pollu_Prod_Pct"
+value	= -25
+reqs	=
+    { "type", "name", "range"
+      "AI", "Cheating", "Player"
+    }
+
+[effect_ai_cheat_veteran]
+type    = "Veteran_Combat"
+value   = 20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Cheating", "Player"
+    }
+
+[effect_ai_cheat_incite_cost]
+type    = "Incite_Cost_Pct"
+value   = 20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Cheating", "Player"
+    }
+
+[effect_ai_handicapped_science]
+type    = "Output_Bonus"
+value   = -25
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+      "OutputType", "Science", "Local"
+    }
+
+[effect_ai_handicapped_defense]
+type    = "Defend_Bonus"
+value   = -20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+[effect_ai_handicapped_attack]
+type    = "Attack_Bonus"
+value   = -20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+[effect_ai_handicapped_bribe]
+type    = "Unit_Bribe_Cost_Pct"
+value   = -20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+[effect_ai_handicapped_routes]
+type    = "Max_Trade_Routes"
+value   = -1
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+[effect_ai_handicapped_trade_bonus]
+type    = "Trade_Revenue_Bonus"
+value   = -100
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+[effect_ai_handicapped_migration]
+type    = "Migration_Pct"
+value   = -20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+[effect_ai_handicapped_incite_cost]
+type    = "Incite_Cost_Pct"
+value   = -20
+reqs    =
+    { "type", "name", "range"
+      "AI", "Handicapped", "Player"
+    }
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

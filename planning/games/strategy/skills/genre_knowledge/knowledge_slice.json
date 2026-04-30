@@ -1,0 +1,1034 @@
+[
+  {
+    "path": "gameplay/case-analysis/王国保卫战_拆解分析.md",
+    "title": "王国保卫战 · 关卡/战斗/成长系统拆解",
+    "tags": [
+      "塔防",
+      "系统拆解",
+      "关卡设计",
+      "数值设计"
+    ]
+  },
+  {
+    "path": "gameplay/game-mechanics/Awesome_Game_Design_资源合集.md",
+    "title": "Awesome Game Design · 游戏设计资源大全",
+    "tags": [
+      "资源合集",
+      "GDD",
+      "Postmortem",
+      "设计工具"
+    ]
+  },
+  {
+    "path": "gameplay/game-mechanics/Awesome_Gamedev_全栈资源.md",
+    "title": "Awesome Gamedev · 游戏开发全栈资源合集",
+    "tags": [
+      "资源合集",
+      "游戏机制",
+      "战斗系统",
+      "经济系统",
+      "Postmortem"
+    ]
+  },
+  {
+    "path": "gameplay/game-mechanics/Game_Design_Library_文章库.md",
+    "title": "Game Design Library · 游戏设计文章索引",
+    "tags": [
+      "文章库",
+      "游戏设计",
+      "公式",
+      "平衡"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_1 原子模型.md",
+    "title": "游戏设计资料 · 1 原子模型",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_2 累乘和连乘.md",
+    "title": "游戏设计资料 · 2 累乘和连乘",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_GWB游戏策划资料包.md",
+    "title": "游戏设计资料 · GWB游戏策划资料包",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_README.md",
+    "title": "游戏设计资料 · README",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_en.md",
+    "title": "游戏设计资料 · en",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_日本Pocket Pair公司老板Takuro Mizobe访谈录.md",
+    "title": "游戏设计资料 · 日本Pocket Pair公司老板Takuro Mizobe访谈录",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDesign_负责人专访.md",
+    "title": "游戏设计资料 · 负责人专访",
+    "tags": [
+      "游戏设计",
+      "学习资料"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.1.编程语言基础概念.md",
+    "title": "游戏开发图谱 · 1.1.1.编程语言基础概念",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.2.C++语言.md",
+    "title": "游戏开发图谱 · 1.1.2.C++语言",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.3.C#语言.md",
+    "title": "游戏开发图谱 · 1.1.3.C#语言",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.4.JS语言.md",
+    "title": "游戏开发图谱 · 1.1.4.JS语言",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.5.编程语言综合.md",
+    "title": "游戏开发图谱 · 1.1.5.编程语言综合",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.6.内存管理.md",
+    "title": "游戏开发图谱 · 1.1.6.内存管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.7.编程语言高阶概念.md",
+    "title": "游戏开发图谱 · 1.1.7.编程语言高阶概念",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.1.编程语言.md",
+    "title": "游戏开发图谱 · 1.1.编程语言",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.2.1.设计模式.md",
+    "title": "游戏开发图谱 · 1.2.1.设计模式",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.2.2.数据结构.md",
+    "title": "游戏开发图谱 · 1.2.2.数据结构",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.2.3.算法.md",
+    "title": "游戏开发图谱 · 1.2.3.算法",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.2.4.代码重构.md",
+    "title": "游戏开发图谱 · 1.2.4.代码重构",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.2.程序设计.md",
+    "title": "游戏开发图谱 · 1.2.程序设计",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.3.1.数学.md",
+    "title": "游戏开发图谱 · 1.3.1.数学",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.3.2.人工智能.md",
+    "title": "游戏开发图谱 · 1.3.2.人工智能",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.3.3.操作系统.md",
+    "title": "游戏开发图谱 · 1.3.3.操作系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.3.4.计算机组成原理.md",
+    "title": "游戏开发图谱 · 1.3.4.计算机组成原理",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.3.5.计算机网络.md",
+    "title": "游戏开发图谱 · 1.3.5.计算机网络",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.3.通用基础.md",
+    "title": "游戏开发图谱 · 1.3.通用基础",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_1.基础能力.md",
+    "title": "游戏开发图谱 · 1.基础能力",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.1.图形与渲染.md",
+    "title": "游戏开发图谱 · 2.1.1.图形与渲染",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.2.物理.md",
+    "title": "游戏开发图谱 · 2.1.2.物理",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.3.UI.md",
+    "title": "游戏开发图谱 · 2.1.3.UI",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.4.声音.md",
+    "title": "游戏开发图谱 · 2.1.4.声音",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.5.动画与特效.md",
+    "title": "游戏开发图谱 · 2.1.5.动画与特效",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.6.游戏引擎概念与应用.md",
+    "title": "游戏开发图谱 · 2.1.6.游戏引擎概念与应用",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.7.平台开发.md",
+    "title": "游戏开发图谱 · 2.1.7.平台开发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.1.客户端技术.md",
+    "title": "游戏开发图谱 · 2.1.客户端技术",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.2.1.网络与通信.md",
+    "title": "游戏开发图谱 · 2.2.1.网络与通信",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.2.2.数据库.md",
+    "title": "游戏开发图谱 · 2.2.2.数据库",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.2.3.服务端中间件.md",
+    "title": "游戏开发图谱 · 2.2.3.服务端中间件",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.2.服务端技术.md",
+    "title": "游戏开发图谱 · 2.2.服务端技术",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.3.1.通用工具.md",
+    "title": "游戏开发图谱 · 2.3.1.通用工具",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.3.2.客户端开发工具.md",
+    "title": "游戏开发图谱 · 2.3.2.客户端开发工具",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.3.3.服务端开发工具.md",
+    "title": "游戏开发图谱 · 2.3.3.服务端开发工具",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.3.4.设计工具.md",
+    "title": "游戏开发图谱 · 2.3.4.设计工具",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.3.5.日常工具.md",
+    "title": "游戏开发图谱 · 2.3.5.日常工具",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.3.开发者工具箱.md",
+    "title": "游戏开发图谱 · 2.3.开发者工具箱",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_2.技术能力.md",
+    "title": "游戏开发图谱 · 2.技术能力",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.1.客户端底层通用系统.md",
+    "title": "游戏开发图谱 · 3.1.1.客户端底层通用系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.2.客户端3D场景开发.md",
+    "title": "游戏开发图谱 · 3.1.2.客户端3D场景开发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.3.客户端优化.md",
+    "title": "游戏开发图谱 · 3.1.3.客户端优化",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.4.客户端网络系统.md",
+    "title": "游戏开发图谱 · 3.1.4.客户端网络系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.5.渲染与特效.md",
+    "title": "游戏开发图谱 · 3.1.5.渲染与特效",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.6.UI系统.md",
+    "title": "游戏开发图谱 · 3.1.6.UI系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.7.客户端中间件.md",
+    "title": "游戏开发图谱 · 3.1.7.客户端中间件",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.1.客户端产品研发.md",
+    "title": "游戏开发图谱 · 3.1.客户端产品研发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.2.1.服务端底层架构.md",
+    "title": "游戏开发图谱 · 3.2.1.服务端底层架构",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.2.2.网游网络同步.md",
+    "title": "游戏开发图谱 · 3.2.2.网游网络同步",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.2.3.服务端优化.md",
+    "title": "游戏开发图谱 · 3.2.3.服务端优化",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.2.4.服务端基础功能.md",
+    "title": "游戏开发图谱 · 3.2.4.服务端基础功能",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.2.5.服务端业务架构.md",
+    "title": "游戏开发图谱 · 3.2.5.服务端业务架构",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.2.服务端产品研发.md",
+    "title": "游戏开发图谱 · 3.2.服务端产品研发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.3.1.摄像机控制.md",
+    "title": "游戏开发图谱 · 3.3.1.摄像机控制",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.3.2.角色.md",
+    "title": "游戏开发图谱 · 3.3.2.角色",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.3.3.综合业务层功能.md",
+    "title": "游戏开发图谱 · 3.3.3.综合业务层功能",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.3.业务层功能.md",
+    "title": "游戏开发图谱 · 3.3.业务层功能",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_3.研发能力.md",
+    "title": "游戏开发图谱 · 3.研发能力",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.1.1.数字内容生产.md",
+    "title": "游戏开发图谱 · 4.1.1.数字内容生产",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.1.2.AI助力游戏生产.md",
+    "title": "游戏开发图谱 · 4.1.2.AI助力游戏生产",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.1.3.引擎的基本功能系统.md",
+    "title": "游戏开发图谱 · 4.1.3.引擎的基本功能系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.1.4.引擎的其它系统.md",
+    "title": "游戏开发图谱 · 4.1.4.引擎的其它系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.1.客户端代码资产.md",
+    "title": "游戏开发图谱 · 4.1.客户端代码资产",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.1.游戏生产.md",
+    "title": "游戏开发图谱 · 4.1.游戏生产",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.2.1.编辑器开发.md",
+    "title": "游戏开发图谱 · 4.2.1.编辑器开发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.2.2.工具开发与应用.md",
+    "title": "游戏开发图谱 · 4.2.2.工具开发与应用",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.2.3.游戏数据文件.md",
+    "title": "游戏开发图谱 · 4.2.3.游戏数据文件",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.2.工具开发.md",
+    "title": "游戏开发图谱 · 4.2.工具开发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.3.1.快速开发框架.md",
+    "title": "游戏开发图谱 · 4.3.1.快速开发框架",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.3.2.技术支持.md",
+    "title": "游戏开发图谱 · 4.3.2.技术支持",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.3.3.DevOps.md",
+    "title": "游戏开发图谱 · 4.3.3.DevOps",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.3.技术中台.md",
+    "title": "游戏开发图谱 · 4.3.技术中台",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_4.生产能力.md",
+    "title": "游戏开发图谱 · 4.生产能力",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.1.1.系统开发工作流.md",
+    "title": "游戏开发图谱 · 5.1.1.系统开发工作流",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.1.2.UI制作工作流.md",
+    "title": "游戏开发图谱 · 5.1.2.UI制作工作流",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.1.3.更多开发工作流.md",
+    "title": "游戏开发图谱 · 5.1.3.更多开发工作流",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.1.工作流.md",
+    "title": "游戏开发图谱 · 5.1.工作流",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.2.1.代码质量管理.md",
+    "title": "游戏开发图谱 · 5.2.1.代码质量管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.2.2.产品质量管理.md",
+    "title": "游戏开发图谱 · 5.2.2.产品质量管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.2.质量保障.md",
+    "title": "游戏开发图谱 · 5.2.质量保障",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.1.项目里程.md",
+    "title": "游戏开发图谱 · 5.3.1.项目里程",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.2.版本管理.md",
+    "title": "游戏开发图谱 · 5.3.2.版本管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.3.SCRUM.md",
+    "title": "游戏开发图谱 · 5.3.3.SCRUM",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.4.团队与组织.md",
+    "title": "游戏开发图谱 · 5.3.4.团队与组织",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.5.团队管理.md",
+    "title": "游戏开发图谱 · 5.3.5.团队管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.6.项目管理综合.md",
+    "title": "游戏开发图谱 · 5.3.6.项目管理综合",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.3.项目管理.md",
+    "title": "游戏开发图谱 · 5.3.项目管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_5.管理能力.md",
+    "title": "游戏开发图谱 · 5.管理能力",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.1.网络维护.md",
+    "title": "游戏开发图谱 · 6.1.1.网络维护",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.2.数据存储.md",
+    "title": "游戏开发图谱 · 6.1.2.数据存储",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.3.资产管理.md",
+    "title": "游戏开发图谱 · 6.1.3.资产管理",
+    "tags": [
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.4.Linux系统.md",
+    "title": "游戏开发图谱 · 6.1.4.Linux系统",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.5.中间件运维.md",
+    "title": "游戏开发图谱 · 6.1.5.中间件运维",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.6.网络安全.md",
+    "title": "游戏开发图谱 · 6.1.6.网络安全",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.1.运维技术.md",
+    "title": "游戏开发图谱 · 6.1.运维技术",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.1.GM后台.md",
+    "title": "游戏开发图谱 · 6.2.1.GM后台",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.2.数据统计分析.md",
+    "title": "游戏开发图谱 · 6.2.2.数据统计分析",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.3.产品热更新.md",
+    "title": "游戏开发图谱 · 6.2.3.产品热更新",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.4.产品本地化.md",
+    "title": "游戏开发图谱 · 6.2.4.产品本地化",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.5.开发配合.md",
+    "title": "游戏开发图谱 · 6.2.5.开发配合",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.6.AI助力游戏运营.md",
+    "title": "游戏开发图谱 · 6.2.6.AI助力游戏运营",
+    "tags": [
+      "运营",
+      "商业化"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.2.产品运营支持.md",
+    "title": "游戏开发图谱 · 6.2.产品运营支持",
+    "tags": [
+      "运营",
+      "商业化"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.3.1.游戏安全.md",
+    "title": "游戏开发图谱 · 6.3.1.游戏安全",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.3.2.帐号与支付.md",
+    "title": "游戏开发图谱 · 6.3.2.帐号与支付",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.3.3.第三方服务.md",
+    "title": "游戏开发图谱 · 6.3.3.第三方服务",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.3.4.产品合规.md",
+    "title": "游戏开发图谱 · 6.3.4.产品合规",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.3.产品商业化.md",
+    "title": "游戏开发图谱 · 6.3.产品商业化",
+    "tags": [
+      "运营",
+      "商业化"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_6.运营能力.md",
+    "title": "游戏开发图谱 · 6.运营能力",
+    "tags": [
+      "运营",
+      "商业化"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_8.1.热更新系统资产.md",
+    "title": "游戏开发图谱 · 8.1.热更新系统资产",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_home.md",
+    "title": "游戏开发图谱 · home",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_test.md",
+    "title": "游戏开发图谱 · test",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_x-1.开发技术.md",
+    "title": "游戏开发图谱 · x-1.开发技术",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_x-4.产品研发.md",
+    "title": "游戏开发图谱 · x-4.产品研发",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_游戏创业-手机网络游戏.md",
+    "title": "游戏开发图谱 · 游戏创业-手机网络游戏",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_游戏开发新人.md",
+    "title": "游戏开发图谱 · 游戏开发新人",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_游戏研运资产样例-SLG手游（2D）.md",
+    "title": "游戏开发图谱 · 游戏研运资产样例-SLG手游（2D）",
+    "tags": [
+      "SLG",
+      "资产样例",
+      "项目管理"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_游戏程序员职业发展路径.md",
+    "title": "游戏开发图谱 · 游戏程序员职业发展路径",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  },
+  {
+    "path": "comprehensive/project-mgmt/GameDevMind_阅读说明.md",
+    "title": "游戏开发图谱 · 阅读说明",
+    "tags": [
+      "游戏开发",
+      "技术图谱"
+    ]
+  }
+]

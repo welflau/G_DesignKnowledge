@@ -1,0 +1,32 @@
+{
+  "id": "export_bridge",
+  "name": "导出对接",
+  "version": "1.0.0",
+  "description": "将策划产出物转换为游戏引擎可用格式。支持Unity/UE配表导出、美术Brief生成、UI列表生成。",
+  "sub_skills": [
+    {
+      "id": "unity_export",
+      "name": "Unity配表导出"
+    },
+    {
+      "id": "ue_export",
+      "name": "UE配表导出"
+    },
+    {
+      "id": "art_brief",
+      "name": "美术方向Brief"
+    },
+    {
+      "id": "ui_list",
+      "name": "UI列表导出"
+    }
+  ],
+  "knowledge_entries": 0,
+  "note": "此Skill不直接依赖知识库，而是消费其他Skill的输出并转换格式",
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}

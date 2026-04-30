@@ -1,0 +1,401 @@
+# OpenRA(红色警戒) · decoration 单位规则
+
+> 来源：OpenRA/OpenRA
+> 原始链接：https://github.com/OpenRA/OpenRA/blob/bleed/mods/ra/rules/decoration.yaml
+> 分类：numerical
+> 标签：红色警戒, RTS, 单位属性, YAML规则, 红色警戒
+
+## 概述
+红色警戒的decoration单位/建筑属性定义（YAML格式）
+
+## 正文
+```yaml
+T01:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T01.Husk
+
+T02:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T02.Husk
+
+T03:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T03.Husk
+
+T04:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: TEMPERAT, SNOW, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T04.Husk
+
+T05:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T05.Husk
+
+T06:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T06.Husk
+
+T07:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T07.Husk
+
+T08:
+	Inherits: ^Tree
+	Building:
+		Footprint: x_
+		Dimensions: 2,1
+	SpawnActorOnDeath:
+		Actor: T08.Husk
+
+T09:
+	Inherits: ^Tree
+	MapEditorData:
+		ExcludeTilesets: TEMPERAT, SNOW, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T09.Husk
+
+T10:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ xx
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T10.Husk
+
+T11:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ xx
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T11.Husk
+
+T12:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T12.Husk
+
+T13:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T13.Husk
+
+T14:
+	Inherits: ^Tree
+	Building:
+		Footprint: ___ xx_
+		Dimensions: 3,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T14.Husk
+
+T15:
+	Inherits: ^Tree
+	Building:
+		Footprint: ___ xx_
+		Dimensions: 3,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T15.Husk
+
+T16:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T16.Husk
+
+T17:
+	Inherits: ^Tree
+	Building:
+		Footprint: __ x_
+		Dimensions: 2,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: T17.Husk
+
+TC01:
+	Inherits: ^Tree
+	Building:
+		Footprint: ___ xx_
+		Dimensions: 3,2
+	MapEditorData:
+		ExcludeTilesets: INTERIOR
+	SpawnActorOnDeath:
+		Actor: TC01.Husk
+
+TC02:
+	Inherits: ^Tree
+	Building:
+		Footprint: _x_ xx_
+		Dimensions: 3,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: TC02.Husk
+
+TC03:
+	Inherits: ^Tree
+	Building:
+		Footprint: xx_ xx_
+		Dimensions: 3,2
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: TC03.Husk
+
+TC04:
+	Inherits: ^Tree
+	Building:
+		Footprint: ____ xxx_ x___
+		Dimensions: 4,3
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: TC04.Husk
+
+TC05:
+	Inherits: ^Tree
+	Building:
+		Footprint: __x_ xxx_ _xx_
+		Dimensions: 4,3
+	MapEditorData:
+		ExcludeTilesets: DESERT, INTERIOR
+	SpawnActorOnDeath:
+		Actor: TC05.Husk
+
+BOXES01:
+	Inherits: ^Box
+
+BOXES02:
+	Inherits: ^Box
+
+BOXES03:
+	Inherits: ^Box
+
+BOXES04:
+	Inherits: ^Box
+
+BOXES05:
+	Inherits: ^Box
+
+BOXES06:
+	Inherits: ^Box
+
+BOXES07:
+	Inherits: ^Box
+
+BOXES08:
+	Inherits: ^Box
+
+BOXES09:
+	Inherits: ^Box
+
+ICE01:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Building:
+		Footprint: xx xx
+		Dimensions: 2,2
+	Tooltip:
+		Name: actor-ice01-name
+	MapEditorData:
+		RequireTilesets: SNOW
+		Categories: Decoration
+
+ICE02:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Building:
+		Footprint: x x
+		Dimensions: 1,2
+	Tooltip:
+		Name: actor-ice02-name
+	MapEditorData:
+		RequireTilesets: SNOW
+		Categories: Decoration
+
+ICE03:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Building:
+		Footprint: xx
+		Dimensions: 2,1
+	Tooltip:
+		Name: actor-ice03-name
+	MapEditorData:
+		RequireTilesets: SNOW
+		Categories: Decoration
+
+ICE04:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Tooltip:
+		Name: actor-ice04-name
+	MapEditorData:
+		RequireTilesets: SNOW
+		Categories: Decoration
+
+ICE05:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Tooltip:
+		Name: actor-ice05-name
+	MapEditorData:
+		RequireTilesets: SNOW
+		Categories: Decoration
+
+ROCK1:
+	Inherits: ^Rock
+	Building:
+		Footprint: ___ xx_
+		Dimensions: 3,2
+
+ROCK2:
+	Inherits: ^Rock
+	Building:
+		Footprint: xx_
+		Dimensions: 3,1
+
+ROCK3:
+	Inherits: ^Rock
+	Building:
+		Footprint: ___ xx_
+		Dimensions: 3,2
+
+ROCK4:
+	Inherits: ^Rock
+	Building:
+		Footprint: x_
+		Dimensions: 2,1
+
+ROCK5:
+	Inherits: ^Rock
+	Building:
+		Footprint: x_
+		Dimensions: 2,1
+
+ROCK6:
+	Inherits: ^Rock
+	Building:
+		Footprint: ___ xxx
+		Dimensions: 3,2
+
+ROCK7:
+	Inherits: ^Rock
+	Building:
+		Footprint: xxxx_
+		Dimensions: 5,1
+
+UTILPOL1:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Tooltip:
+		Name: actor-utilpol1-name
+	MapEditorData:
+		Categories: Decoration
+
+UTILPOL2:
+	Inherits: ^Tree
+	RenderSprites:
+		Palette: player
+	Tooltip:
+		Name: actor-utilpol2-name
+	MapEditorData:
+		Categories: Decoration
+
+TANKTRAP1:
+	Inherits: ^Rock
+	RenderSprites:
+		Palette: player
+	Building:
+		Footprint: x
+		Dimensions: 1,1
+	Tooltip:
+		Name: actor-tanktrap1-name
+	MapEditorData:
+		RequireTilesets: TEMPERAT, SNOW, DESERT, INTERIOR
+
+TANKTRAP2:
+	Inherits: ^Rock
+	RenderSprites:
+		Palette: player
+	Building:
+		Footprint: x
+		Dimensions: 1,1
+	Tooltip:
+		Name: actor-tanktrap2-name
+	MapEditorData:
+		RequireTilesets: TEMPERAT, SNOW, DESERT, INTERIOR
+
+```
+
+## 策划参考价值
+RTS单位数值设计的教科书级参考：血量/攻击/射程/造价/建造时间。

@@ -1,0 +1,105 @@
+# Freeciv(nation) · alsatian
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/alsatian.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的alsatian定义
+
+## 正文
+```ruleset
+[nation_alsatian]
+
+name=_("Alsatian")
+plural=_("?plural:Alsatians")
+groups="European", "Medieval"
+legend=_("Alsace is a region in Europe, on the border of France and Germany.\
+ During the Middle Ages Alsace was part of the Holy Roman Empire, and consisted\
+ of several quite wealthy city-states. In the 17th and 18th century the\
+ Alsatian cities were annexed by France one by one, but after that the\
+ region became one of the most contested parts of Europe, changing hands\
+ between Germany and France 4 times in less than a century. Since 1944 it\
+ has been in French hands.")
+
+leaders = {
+ "name",                              "sex"
+ "Gundoin",                           "Male"
+ "Johann Geiler von Kaisersberg",     "Male"
+ "Jacob Sturm von Sturmeck",          "Male"
+ "François Christophe de Kellermann", "Male"
+ "Eugen Ricklin",                     "Male"
+
+}
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Democracy",  _("Minister-President %s"), _("?female:Minister-President %s")
+ "Despotism",       _("Bailiff %s"),        _("?female:Bailiff %s")
+ "Fundamentalism",  _("Bishop %s"),         _("?female:Bishop %s")
+ "Republic",        _("Burgomaster %s"),    _("?female:Burgomaster %s")
+}
+flag="alsace"
+flag_alt = "-"
+style = "european"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "badian", "palatinate", "lorrain"
+
+cities =
+ "Straßburg",		;Strasbourg
+ "Colmar",
+ "Mülhausen",		;Mulhouse
+ "Hagenau", 		;Haguenau
+ "Schlettstadt",	;Sélestat
+ "Weißenburg",		;Wissembourg
+ "Oberehnheim",		;Obernai
+ "Rosheim",
+ "Kaisersberg",		;Kaysersberg
+ "Münster im Elsass",	;Munster
+ "Türkheim",		;Turckheim
+ "Landau in der Pfalz",
+ "Belfort",
+ "Zabern",		;Saverne
+ "Wittenheim",
+ "Schirmeck",
+ "Ilzach",
+ "Altkirch",
+ "Rixheim",
+ "Kingersheim",
+ "Gebweiler",		;Guebwiller
+ "Molsheim",
+ "Rappoltsweiler",	;Ribeauvillé
+ "Riedisheim",		;Riediesheim
+ "Bischwiller",
+ "Sennheim",		;Cerney
+ "Wittelsheim",
+ "Erstein",
+ "Thann",
+ "Markirch",		;Sainte-Marie-aux-Mines
+ "Pfastatt",
+ "Saarunion",		;Sarre-Union
+ "Wintzenheim",
+ "Dettenried", 		;Delle
+ "Sulz/Oberelsass",	;Soultz-Haut-Rhin
+ "Offemundt",		;Offemont
+ "Bad Niederbronn",	;Niederbronn-les-Bains
+ "Schiltigheim",
+ "Illkirch-Grafenstaden",
+ "Sankt Ludwig",	;Saint-Louis
+ "Bischheim",
+ "Ostwald",
+ "Lingolsheim",
+ "Hönheim",		;Hœnheim
+ "Brumath",
+ "Reichenweier",	;Riquewihr
+ "Neubreisach"		;Neuf-Brisach
+
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

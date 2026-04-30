@@ -1,0 +1,119 @@
+# Freeciv(nation) · thuringian
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/thuringian.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的thuringian定义
+
+## 正文
+```ruleset
+[nation_thuringian]
+
+name=_("Thuringian")
+plural=_("?plural:Thuringians")
+groups="Medieval", "European"
+legend=_("The Thuringians were an ancient Germanic confederation in what\
+ is now Central Germany, established after the defeat of the Huns.\
+ Defeated by the Franks in the 8th century, Thuringia later became a\
+ landgraviate of the Holy Roman Empire. After the extinction of the ruling\
+ family in the 13th century, the War of the Thuringian Succession left\
+ the region badly splintered even for Holy Roman Empire standards, which\
+ was exacerbated by the Thuringian (or rather Saxon) tradition of dividing\
+ territory amongst all male heirs. Thuringia was a hotbed of the Protestant\
+ Reformation and the Wars of Religion, and saw a cultural apogee during the\
+ Enlightenment when the duke of Saxe-Weimar invited luminaries such as\
+ Johann Wolfgang von Goethe and Friedrich Schiller to his court. Thuringian\
+ political fragmentation survived Napoleon and the German unification; only\
+ after the fall of the German monarchies in 1918 was a united Free State of\
+ Thuringia established, which currently exists as one of the states of\
+ Germany.")
+
+leaders = {
+ "name",                                    "sex"
+ "Herminafried",                            "Male"
+ "Hedan II",                                "Male"
+ "Ludwig der Springer",                     "Male"
+ "Elisabeth",                               "Female"
+ "Heinrich Raspe IV",                       "Male"
+ "Thomas Müntzer",                          "Male"
+ "Bernhard von Sachsen-Weimar",             "Male"
+ "Anna Amalia von Sachsen-Weimar-Eisenach", "Female"
+ "Karl August von Sachsen-Weimar-Eisenach", "Male"
+ "Johann Wolfgang von Goethe",              "Male"
+ "Ernst von Sachsen-Coburg und Gotha",      "Male"
+ "Heinrich XXII Reuß",                      "Male"
+ "Wilhelm Bock",                            "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",            "female_title"
+ "Communism",       _("First Secretary %s"), _("?female:First Secretary %s")
+ "Despotism",       _("Landgrave %s"),       _("Landgravine %s")
+ "Fundamentalism",  _("Bishop %s"),          _("?female:Bishop %s")
+ "Monarchy",        _("Grand Duke %s"),      _("Grand Duchess %s")
+ "Democracy",  _("Minister-President %s"), _("?female:Minister-President %s")
+}
+flag="thuringia"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations="saxon", "hessian", "franconian"
+
+cities =
+;Capitals of Thuringian states
+ "Weimar",		;Interwar Thuringia, Saxe-Weimar-Eisenach
+ "Erfurt",		;Modern Thuringia
+ "Gera",		;Reuss Younger Line
+ "Gotha",		;Saxe-Gotha
+ "Coburg",		;Saxe-Coburg
+ "Altenburg",		;Saxe-Altenburg
+ "Rudolstadt",		;Schwarzburg-Rudolstadt
+ "Sondershausen",	;Schwarzburg-Sondershausen
+ "Greiz",		;Reuss Elder Line
+ "Meinigen",		;Saxe-Meiningen
+ "Hildburghausen",	;Saxe-Hildburghausen
+ "Saalfeld",    	;Saxe-Saalfeld
+;Cities in interwar Thuringia
+ "Jena",
+ "Eisenach",
+ "Apolda",
+ "Arnstadt",
+ "Sonneberg",
+ "Zella-Mehlis",
+ "Ilmenau",
+ "Pößneck",
+ "Schmölln",
+ "Zeulenroda",
+ "Weida",
+ "Eisenberg",
+ "Meuselwitz",
+ "Schleiz",
+ "Stadtroda",
+ "Ostheim",
+ "Allstedt",
+ "Bad Frankenhausen",
+ "Friedrichroda",
+ "Möhra",
+ "Bad Salzungen",
+ "Schwarzburg",
+;Modern Thuringia
+ "Suhl",
+ "Nordhausen",
+ "Mühlhausen",
+ "Schmalkalden",
+ "Sömmerda",
+ "Leinefelde-Worbis",
+ "Bad Langensalza",
+ "Heiligenstadt",
+ "Artern"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

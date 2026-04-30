@@ -1,0 +1,90 @@
+# Freeciv(nation) · sarmatian
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/sarmatian.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的sarmatian定义
+
+## 正文
+```ruleset
+[nation_sarmatian]
+
+name=_("Sarmatian")
+plural=_("?plural:Sarmatians")
+groups="Ancient", "Asian", "European"
+legend=_("The Sarmatians were Iranian pastoral tribes from Central Asia\
+ and Southwest Siberia. They were closely related to the Saka and the\
+ Scythians. The myth of the origin from the Sarmatians formed the basis\
+ of the Polish culture from the 15th to the 18th century.")
+
+leaders = {
+ "name",        "sex"
+ "Sangiban",    "Male" ; King of Alans.
+ "Amage",       "Female"
+ "Skopasis",    "Male"
+ "Respindal",   "Male"
+ "Tasius",      "Male" ; King of Roxolani.
+ "Arifarna",    "Male" ; Aripharnes, king of Siraces.
+ "Abeacus",     "Male" ; King of Siraces.
+ "Zorsines",    "Male" ; King of Siraces.
+ "Zanticus",    "Male"
+ "Spaldines",   "Male"
+ "Goar",        "Male"
+ "Beukan",      "Male"
+ "Babai",       "Male"
+}
+
+flag = "sarmatia"
+flag_alt = "-"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with = "kazakh", "khazar", "soviet", "ruthenian", "russian", "ukrainian", "cossack", "crimean tatar"
+civilwar_nations = "scythian", "ossetian", "ruthenian", "abkhaz", "gothic", "saka"
+
+cities =
+
+"Andronovo",
+"Prokhorov",
+"Orenburg",
+"Orsk",
+"Uspe",
+"Hohlach",
+"Kobyakovo",
+"Pokrovka",
+"Kosika",
+"Krasnogorovka",
+"Taman",
+"Zmielnogorsk",
+"Kardaielova",
+"Chernaya",
+"Petrovka",
+"Sintashta",
+"Arkaim",
+"Alakul",
+"Alekseyevka",
+"Fedorovo",
+"Omsk",
+"Tomsk",
+"Biysk",
+"Baranaul",
+"Semipalatinsk",
+"Ust'-Labinska",
+"Novoselka",
+"Hrushivka",
+"Aleksandropol",
+"Salomatina",
+"Susly",
+"Vozdvizhenska",
+"Armavir",
+"Zubovski"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

@@ -1,0 +1,96 @@
+# Freeciv(nation) · zimbabwean
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/zimbabwean.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的zimbabwean定义
+
+## 正文
+```ruleset
+[nation_zimbabwean]
+
+name=_("Zimbabwean")
+plural=_("?plural:Zimbabweans")
+groups="African", "Modern"
+legend=_("Zimbabwe is a country in Southern Africa, named after the old\
+ Zimbabwe kingdom. It became a British colony called South Rhodesia\
+ in 1898. The white minority in South Rhodesia unilaterally declared\
+ independence in 1965. Prime Minister Ian Smith installed a racist regime\
+ which excluded blacks from power. A civil war forced Smith to end white\
+ minority rule in 1979. Since 1980 the country has been governed by Robert\
+ Mugabe, who has received an equally poor reputation internationally as the\
+ previous regime.")
+
+leaders = {
+ "name",             "sex"
+ "Cecil Rhodes",     "Male"
+ "Ian Smith",        "Male"
+ "Joshua Nkomo",     "Male"
+ "Canaan Banana",    "Male"
+ "Chenjerai Hunzvi", "Male"
+ "Robert Mugabe",    "Male"
+}
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Fundamentalism",  _("Bishop %s"),    _("?female:Bishop %s")
+}
+flag="zimbabwe" 
+flag_alt = "-" 
+style = "tropical" 
+
+init_techs="" 
+init_buildings="" 
+init_units="" 
+
+civilwar_nations="South African", "Boer", "Venda"
+
+cities = 
+ "Harare",
+ "Bulawayo",
+ "Mutare",
+ "Gweru",
+ "Masvingo",
+ "Chinhoyi",
+ "Marondera",
+ "Bindura",
+ "Hwange",
+ "Gwanda",
+ "Chitungwiza",
+ "Epworth",
+ "Kadoma",
+ "Norton",
+ "Chegutu",
+ "Zvishavane",
+ "Redcliff",
+ "Ruwa",
+ "Beitbridge",
+ "Victoria Falls",
+ "Chiredzi",
+ "Kariba",
+ "Rusape",
+ "Karoi",
+ "Gokwe",
+ "Chipinge",
+ "Shrugwi",
+ "Bereship",
+ "Mashava",
+ "Muzvezve",
+ "Tokwane Ngundu",
+ "Bingaguru-Chiwira",
+ "Shamva",
+ "Mutoko",
+ "Mukosi",
+ "Chivhu",
+ "Gwetera",
+ "Mazowe",
+ "Gendale",
+ "Nyahode",
+ "Banket"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

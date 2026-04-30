@@ -1,0 +1,114 @@
+# Freeciv(nation) · uruguayan
+
+> 来源：longturn/freeciv21
+> 原始链接：https://github.com/longturn/freeciv21/blob/main/data/nation/uruguayan.ruleset
+> 分类：numerical
+> 标签：文明, 4X策略, 规则集, nation
+
+## 概述
+Freeciv nation规则集的uruguayan定义
+
+## 正文
+```ruleset
+[nation_uruguayan]
+
+name=_("Uruguayan")
+plural=_("?plural:Uruguayans")
+groups="Modern", "American"
+legend=_("Uruguay, a small South American country sometimes referred to as\
+ \"Switzerland of the Americas\" due to its once highly developed social\
+ welfare system.")
+
+leaders = {
+ "name",                        "sex"
+ "José Artigas",                "Male"
+ "Juan Antonio Lavalleja",      "Male"
+ "Manuel Oribe",                "Male"
+ "Aparicio Saravia",            "Male"
+ "José Batlle y Ordóñez",       "Male"
+ "Wilson Ferreira Aldunate",    "Male"
+}
+ruler_titles = {
+ "government",     "male_title",        "female_title"
+ "Communism",      _("Comandante %s"),  _("Comandanta %s")
+ "Democracy",      _("Councillor %s"),  _("?female:Councillor %s")
+ "Despotism",      _("General %s"),     _("?female:General %s")
+ "Fundamentalism", _("Bishop %s"),      _("Mother Superior %s")
+}
+flag="uruguay"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations="argentine", "brazilian"
+
+cities =
+ "Montevideo",
+ "Ciudad del Este",
+ "Salto",
+ "Las Piedras",
+ "Maldonado",
+ "Canelones",
+ "Artigas",
+ "Rocha",
+ "Melo",
+ "Minas",
+ "Colonia",
+ "San José de Mayo",
+ "Artigas",
+ "Tacuarembó",
+ "Rivera",
+ "Durazno",
+ "Punta del Este",
+ "Piriápolis",
+ "Trinidad",
+ "Paysandú",
+ "Mercedes",
+ "Fray Bentos",
+ "Flores",
+ "Treinta y Tres",
+ "Tranqueras",
+ "Pando",
+ "Bella Unión",
+ "Soca",
+ "Santa Rosa",
+ "Tala",
+ "Atlántida",
+ "La Paz",
+ "Santa Lucía",
+ "Migues",
+ "Rio Branco",
+ "Olimar",
+ "Aceguá",
+ "Carmelo",
+ "Nueva Palmira",
+ "Juan Lacaze",
+ "Carmen",
+ "Sarandí del Yí",
+ "José Batlle y Ordóñez",
+ "San Carlos",
+ "Aiguá",
+ "Santiago Vázquez",
+ "Guichón",
+ "San Javier",
+ "Young",
+ "Minas de Corrales",
+ "Castillos",
+ "Lascano",
+ "Constitución",
+ "San Antonio",
+ "Belén",
+ "Dolores",
+ "Cardona",
+ "Paso de Los Toros",
+ "Vergara",
+ "Masoller",
+ "Agraciada",
+ "Asencio"
+
+```
+
+## 策划参考价值
+4X SLG鼻祖级数值参考：单位/建筑/科技树/文明特性。

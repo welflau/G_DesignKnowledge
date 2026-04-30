@@ -1,0 +1,8325 @@
+[
+  {
+    "path": "numerical/game-data/arknights/明日方舟_building_data.md",
+    "title": "明日方舟 · 基建数据",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "基建数据"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_char_patch_table.md",
+    "title": "明日方舟 · 干员补丁表",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "干员补丁表"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_character_table.md",
+    "title": "明日方舟 · 干员属性表",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "干员属性表"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_gacha_table.md",
+    "title": "明日方舟 · 抽卡表",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "抽卡表"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_gamedata_const.md",
+    "title": "明日方舟 · 全局常量",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "全局常量"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_handbook_info_table.md",
+    "title": "明日方舟 · 干员档案",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "干员档案"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_item_table.md",
+    "title": "明日方舟 · 道具表",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "道具表"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_skill_table.md",
+    "title": "明日方舟 · 技能数据表",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "技能数据表"
+    ]
+  },
+  {
+    "path": "numerical/game-data/arknights/明日方舟_stage_table.md",
+    "title": "明日方舟 · 关卡配置表",
+    "tags": [
+      "明日方舟",
+      "数据解包",
+      "关卡配置表"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_LICENSE.md",
+    "title": "碧蓝航线 · LICENSE",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_README.md",
+    "title": "碧蓝航线 · README",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_common.md",
+    "title": "碧蓝航线 · common",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_fleet_tech.md",
+    "title": "碧蓝航线 · fleet tech",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_fomulas.md",
+    "title": "碧蓝航线 · fomulas",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_formulas.md",
+    "title": "碧蓝航线 · formulas",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_ghost_equip.md",
+    "title": "碧蓝航线 · ghost equip",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_index.md",
+    "title": "碧蓝航线 · index",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_limitbreak.md",
+    "title": "碧蓝航线 · limitbreak",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_research.md",
+    "title": "碧蓝航线 · research",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_retrofit.md",
+    "title": "碧蓝航线 · retrofit",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/azurlane/碧蓝航线_words.md",
+    "title": "碧蓝航线 · words",
+    "tags": [
+      "碧蓝航线",
+      "数据解包",
+      "舰船属性"
+    ]
+  },
+  {
+    "path": "numerical/game-data/bluearchive/蔚蓝档案_数据概览.md",
+    "title": "蔚蓝档案 · 游戏数据",
+    "tags": [
+      "蔚蓝档案",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/clash-royale/皇室战争_数值数据.md",
+    "title": "皇室战争 · 卡牌数值数据集",
+    "tags": [
+      "皇室战争",
+      "卡牌平衡",
+      "Excel"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_buildings_ruleset.md",
+    "title": "Freeciv(civ1) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_cities_ruleset.md",
+    "title": "Freeciv(civ1) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_effects_ruleset.md",
+    "title": "Freeciv(civ1) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_game_ruleset.md",
+    "title": "Freeciv(civ1) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_governments_ruleset.md",
+    "title": "Freeciv(civ1) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_nations_ruleset.md",
+    "title": "Freeciv(civ1) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_parser_lua.md",
+    "title": "Freeciv(civ1) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_script_lua.md",
+    "title": "Freeciv(civ1) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_styles_ruleset.md",
+    "title": "Freeciv(civ1) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_techs_ruleset.md",
+    "title": "Freeciv(civ1) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_terrain_ruleset.md",
+    "title": "Freeciv(civ1) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ1_units_ruleset.md",
+    "title": "Freeciv(civ1) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ1"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_buildings_ruleset.md",
+    "title": "Freeciv(civ2) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_cities_ruleset.md",
+    "title": "Freeciv(civ2) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_effects_ruleset.md",
+    "title": "Freeciv(civ2) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_game_ruleset.md",
+    "title": "Freeciv(civ2) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_governments_ruleset.md",
+    "title": "Freeciv(civ2) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_nations_ruleset.md",
+    "title": "Freeciv(civ2) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_parser_lua.md",
+    "title": "Freeciv(civ2) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_script_lua.md",
+    "title": "Freeciv(civ2) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_styles_ruleset.md",
+    "title": "Freeciv(civ2) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_techs_ruleset.md",
+    "title": "Freeciv(civ2) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_terrain_ruleset.md",
+    "title": "Freeciv(civ2) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2_units_ruleset.md",
+    "title": "Freeciv(civ2) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_buildings_ruleset.md",
+    "title": "Freeciv(civ2civ3) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_cities_ruleset.md",
+    "title": "Freeciv(civ2civ3) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_effects_ruleset.md",
+    "title": "Freeciv(civ2civ3) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_game_ruleset.md",
+    "title": "Freeciv(civ2civ3) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_governments_ruleset.md",
+    "title": "Freeciv(civ2civ3) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_nations_ruleset.md",
+    "title": "Freeciv(civ2civ3) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_parser_lua.md",
+    "title": "Freeciv(civ2civ3) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_script_lua.md",
+    "title": "Freeciv(civ2civ3) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_styles_ruleset.md",
+    "title": "Freeciv(civ2civ3) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_techs_ruleset.md",
+    "title": "Freeciv(civ2civ3) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_terrain_ruleset.md",
+    "title": "Freeciv(civ2civ3) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_civ2civ3_units_ruleset.md",
+    "title": "Freeciv(civ2civ3) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "civ2civ3"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_buildings_ruleset.md",
+    "title": "Freeciv(classic) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_cities_ruleset.md",
+    "title": "Freeciv(classic) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_effects_ruleset.md",
+    "title": "Freeciv(classic) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_game_ruleset.md",
+    "title": "Freeciv(classic) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_governments_ruleset.md",
+    "title": "Freeciv(classic) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_nations_ruleset.md",
+    "title": "Freeciv(classic) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_parser_lua.md",
+    "title": "Freeciv(classic) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_script_lua.md",
+    "title": "Freeciv(classic) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_styles_ruleset.md",
+    "title": "Freeciv(classic) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_techs_ruleset.md",
+    "title": "Freeciv(classic) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_terrain_ruleset.md",
+    "title": "Freeciv(classic) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_classic_units_ruleset.md",
+    "title": "Freeciv(classic) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "classic"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_default_ai_effects_ruleset.md",
+    "title": "Freeciv(default) · ai_effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "default"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_default_default_lua.md",
+    "title": "Freeciv(default) · default",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "default"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_default_nation_intelligence_effects_ruleset.md",
+    "title": "Freeciv(default) · nation_intelligence_effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "default"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_default_nationlist_ruleset.md",
+    "title": "Freeciv(default) · nationlist",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "default"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_buildings_ruleset.md",
+    "title": "Freeciv(experimental) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_cities_ruleset.md",
+    "title": "Freeciv(experimental) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_effects_ruleset.md",
+    "title": "Freeciv(experimental) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_game_ruleset.md",
+    "title": "Freeciv(experimental) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_governments_ruleset.md",
+    "title": "Freeciv(experimental) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_nations_ruleset.md",
+    "title": "Freeciv(experimental) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_parser_lua.md",
+    "title": "Freeciv(experimental) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_script_lua.md",
+    "title": "Freeciv(experimental) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_styles_ruleset.md",
+    "title": "Freeciv(experimental) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_techs_ruleset.md",
+    "title": "Freeciv(experimental) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_terrain_ruleset.md",
+    "title": "Freeciv(experimental) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_experimental_units_ruleset.md",
+    "title": "Freeciv(experimental) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "experimental"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_buildings_ruleset.md",
+    "title": "Freeciv(granularity) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_cities_ruleset.md",
+    "title": "Freeciv(granularity) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_effects_ruleset.md",
+    "title": "Freeciv(granularity) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_game_ruleset.md",
+    "title": "Freeciv(granularity) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_governments_ruleset.md",
+    "title": "Freeciv(granularity) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_nations_ruleset.md",
+    "title": "Freeciv(granularity) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_parser_lua.md",
+    "title": "Freeciv(granularity) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_script_lua.md",
+    "title": "Freeciv(granularity) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_styles_ruleset.md",
+    "title": "Freeciv(granularity) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_techs_ruleset.md",
+    "title": "Freeciv(granularity) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_terrain_ruleset.md",
+    "title": "Freeciv(granularity) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_granularity_units_ruleset.md",
+    "title": "Freeciv(granularity) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "granularity"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_buildings_ruleset.md",
+    "title": "Freeciv(multiplayer) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_cities_ruleset.md",
+    "title": "Freeciv(multiplayer) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_effects_ruleset.md",
+    "title": "Freeciv(multiplayer) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_game_ruleset.md",
+    "title": "Freeciv(multiplayer) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_governments_ruleset.md",
+    "title": "Freeciv(multiplayer) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_nations_ruleset.md",
+    "title": "Freeciv(multiplayer) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_parser_lua.md",
+    "title": "Freeciv(multiplayer) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_script_lua.md",
+    "title": "Freeciv(multiplayer) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_styles_ruleset.md",
+    "title": "Freeciv(multiplayer) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_techs_ruleset.md",
+    "title": "Freeciv(multiplayer) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_terrain_ruleset.md",
+    "title": "Freeciv(multiplayer) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_multiplayer_units_ruleset.md",
+    "title": "Freeciv(multiplayer) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "multiplayer"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_abkhaz_ruleset.md",
+    "title": "Freeciv(nation) · abkhaz",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_aborigines_ruleset.md",
+    "title": "Freeciv(nation) · aborigines",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_abyssinian_ruleset.md",
+    "title": "Freeciv(nation) · abyssinian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_acadian_ruleset.md",
+    "title": "Freeciv(nation) · acadian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_acehnese_ruleset.md",
+    "title": "Freeciv(nation) · acehnese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_acrean_ruleset.md",
+    "title": "Freeciv(nation) · acrean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_afghani_ruleset.md",
+    "title": "Freeciv(nation) · afghani",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_african_ruleset.md",
+    "title": "Freeciv(nation) · african",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ainu_ruleset.md",
+    "title": "Freeciv(nation) · ainu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_akwe_ruleset.md",
+    "title": "Freeciv(nation) · akwe",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_alandalus_ruleset.md",
+    "title": "Freeciv(nation) · alandalus",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_alander_ruleset.md",
+    "title": "Freeciv(nation) · alander",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_alaskan_ruleset.md",
+    "title": "Freeciv(nation) · alaskan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_albanian_ruleset.md",
+    "title": "Freeciv(nation) · albanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_aleut_ruleset.md",
+    "title": "Freeciv(nation) · aleut",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_algerian_ruleset.md",
+    "title": "Freeciv(nation) · algerian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_alsatian_ruleset.md",
+    "title": "Freeciv(nation) · alsatian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_amazigh_ruleset.md",
+    "title": "Freeciv(nation) · amazigh",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_amazonian_ruleset.md",
+    "title": "Freeciv(nation) · amazonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ambazonian_ruleset.md",
+    "title": "Freeciv(nation) · ambazonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_american_ruleset.md",
+    "title": "Freeciv(nation) · american",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_andorran_ruleset.md",
+    "title": "Freeciv(nation) · andorran",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_angolan_ruleset.md",
+    "title": "Freeciv(nation) · angolan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_anhaltian_ruleset.md",
+    "title": "Freeciv(nation) · anhaltian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_animals_ruleset.md",
+    "title": "Freeciv(nation) · animals",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_anishinaabe_ruleset.md",
+    "title": "Freeciv(nation) · anishinaabe",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_antarctican_ruleset.md",
+    "title": "Freeciv(nation) · antarctican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_antiguan_ruleset.md",
+    "title": "Freeciv(nation) · antiguan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_antillean_ruleset.md",
+    "title": "Freeciv(nation) · antillean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_apache_ruleset.md",
+    "title": "Freeciv(nation) · apache",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_arab_ruleset.md",
+    "title": "Freeciv(nation) · arab",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_aragonese_ruleset.md",
+    "title": "Freeciv(nation) · aragonese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_aramean_ruleset.md",
+    "title": "Freeciv(nation) · aramean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_argentine_ruleset.md",
+    "title": "Freeciv(nation) · argentine",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_armenian_ruleset.md",
+    "title": "Freeciv(nation) · armenian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ashanti_ruleset.md",
+    "title": "Freeciv(nation) · ashanti",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_assamese_ruleset.md",
+    "title": "Freeciv(nation) · assamese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_assyrian_ruleset.md",
+    "title": "Freeciv(nation) · assyrian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_asturian_ruleset.md",
+    "title": "Freeciv(nation) · asturian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_atlantean_ruleset.md",
+    "title": "Freeciv(nation) · atlantean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_australian_ruleset.md",
+    "title": "Freeciv(nation) · australian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_austriahungary_ruleset.md",
+    "title": "Freeciv(nation) · austriahungary",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_austrian_ruleset.md",
+    "title": "Freeciv(nation) · austrian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_avar_ruleset.md",
+    "title": "Freeciv(nation) · avar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_aymara_ruleset.md",
+    "title": "Freeciv(nation) · aymara",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_azeri_ruleset.md",
+    "title": "Freeciv(nation) · azeri",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_aztec_ruleset.md",
+    "title": "Freeciv(nation) · aztec",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_babylonian_ruleset.md",
+    "title": "Freeciv(nation) · babylonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_badian_ruleset.md",
+    "title": "Freeciv(nation) · badian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bahamian_ruleset.md",
+    "title": "Freeciv(nation) · bahamian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bahraini_ruleset.md",
+    "title": "Freeciv(nation) · bahraini",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bangladeshi_ruleset.md",
+    "title": "Freeciv(nation) · bangladeshi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_barbadian_ruleset.md",
+    "title": "Freeciv(nation) · barbadian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_barbarian_ruleset.md",
+    "title": "Freeciv(nation) · barbarian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bashkir_ruleset.md",
+    "title": "Freeciv(nation) · bashkir",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_basque_ruleset.md",
+    "title": "Freeciv(nation) · basque",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bavarian_ruleset.md",
+    "title": "Freeciv(nation) · bavarian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_belarusian_ruleset.md",
+    "title": "Freeciv(nation) · belarusian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_belgian_ruleset.md",
+    "title": "Freeciv(nation) · belgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_belgic_ruleset.md",
+    "title": "Freeciv(nation) · belgic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_belizean_ruleset.md",
+    "title": "Freeciv(nation) · belizean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bengali_ruleset.md",
+    "title": "Freeciv(nation) · bengali",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_benin_ruleset.md",
+    "title": "Freeciv(nation) · benin",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_beninese_ruleset.md",
+    "title": "Freeciv(nation) · beninese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bhutanese_ruleset.md",
+    "title": "Freeciv(nation) · bhutanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_biafran_ruleset.md",
+    "title": "Freeciv(nation) · biafran",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bissauguinean_ruleset.md",
+    "title": "Freeciv(nation) · bissauguinean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_boer_ruleset.md",
+    "title": "Freeciv(nation) · boer",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_boian_ruleset.md",
+    "title": "Freeciv(nation) · boian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bolivian_ruleset.md",
+    "title": "Freeciv(nation) · bolivian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bosnia_ruleset.md",
+    "title": "Freeciv(nation) · bosnia",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bosporan_ruleset.md",
+    "title": "Freeciv(nation) · bosporan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_botswanan_ruleset.md",
+    "title": "Freeciv(nation) · botswanan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_brandenburgian_ruleset.md",
+    "title": "Freeciv(nation) · brandenburgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_brazilian_ruleset.md",
+    "title": "Freeciv(nation) · brazilian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_breton_ruleset.md",
+    "title": "Freeciv(nation) · breton",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_british_ruleset.md",
+    "title": "Freeciv(nation) · british",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_briton_ruleset.md",
+    "title": "Freeciv(nation) · briton",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bruneian_ruleset.md",
+    "title": "Freeciv(nation) · bruneian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_bulgarian_ruleset.md",
+    "title": "Freeciv(nation) · bulgarian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_burgundian_ruleset.md",
+    "title": "Freeciv(nation) · burgundian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_burgundic_ruleset.md",
+    "title": "Freeciv(nation) · burgundic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_burkinabe_ruleset.md",
+    "title": "Freeciv(nation) · burkinabe",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_burmese_ruleset.md",
+    "title": "Freeciv(nation) · burmese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_burundi_ruleset.md",
+    "title": "Freeciv(nation) · burundi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_buryat_ruleset.md",
+    "title": "Freeciv(nation) · buryat",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_byzantium_ruleset.md",
+    "title": "Freeciv(nation) · byzantium",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_californian_ruleset.md",
+    "title": "Freeciv(nation) · californian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cambodian_ruleset.md",
+    "title": "Freeciv(nation) · cambodian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cameroonian_ruleset.md",
+    "title": "Freeciv(nation) · cameroonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_canadian_ruleset.md",
+    "title": "Freeciv(nation) · canadian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_canari_ruleset.md",
+    "title": "Freeciv(nation) · canari",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cantonese_ruleset.md",
+    "title": "Freeciv(nation) · cantonese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_capeverdean_ruleset.md",
+    "title": "Freeciv(nation) · capeverdean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_carantanian_ruleset.md",
+    "title": "Freeciv(nation) · carantanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_carthaginian_ruleset.md",
+    "title": "Freeciv(nation) · carthaginian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_castilian_ruleset.md",
+    "title": "Freeciv(nation) · castilian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_catalan_ruleset.md",
+    "title": "Freeciv(nation) · catalan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_celtiberian_ruleset.md",
+    "title": "Freeciv(nation) · celtiberian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_celtic_ruleset.md",
+    "title": "Freeciv(nation) · celtic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_centralafrican_ruleset.md",
+    "title": "Freeciv(nation) · centralafrican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_centralamerican_ruleset.md",
+    "title": "Freeciv(nation) · centralamerican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_centrallithuanian_ruleset.md",
+    "title": "Freeciv(nation) · centrallithuanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chadian_ruleset.md",
+    "title": "Freeciv(nation) · chadian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cham_ruleset.md",
+    "title": "Freeciv(nation) · cham",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chananean_ruleset.md",
+    "title": "Freeciv(nation) · chananean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chechen_ruleset.md",
+    "title": "Freeciv(nation) · chechen",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cherokee_ruleset.md",
+    "title": "Freeciv(nation) · cherokee",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chiapanec_ruleset.md",
+    "title": "Freeciv(nation) · chiapanec",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chickasaw_ruleset.md",
+    "title": "Freeciv(nation) · chickasaw",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chilean_ruleset.md",
+    "title": "Freeciv(nation) · chilean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chimu_ruleset.md",
+    "title": "Freeciv(nation) · chimu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chinese_ruleset.md",
+    "title": "Freeciv(nation) · chinese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chinook_ruleset.md",
+    "title": "Freeciv(nation) · chinook",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_choctaw_ruleset.md",
+    "title": "Freeciv(nation) · choctaw",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chola_ruleset.md",
+    "title": "Freeciv(nation) · chola",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chrobatian_ruleset.md",
+    "title": "Freeciv(nation) · chrobatian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chumash_ruleset.md",
+    "title": "Freeciv(nation) · chumash",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_chuvash_ruleset.md",
+    "title": "Freeciv(nation) · chuvash",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_circassian_ruleset.md",
+    "title": "Freeciv(nation) · circassian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_colombian_ruleset.md",
+    "title": "Freeciv(nation) · colombian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_comanche_ruleset.md",
+    "title": "Freeciv(nation) · comanche",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_comorian_ruleset.md",
+    "title": "Freeciv(nation) · comorian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_confederate_ruleset.md",
+    "title": "Freeciv(nation) · confederate",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_congofreestate_ruleset.md",
+    "title": "Freeciv(nation) · congofreestate",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_congolese_ruleset.md",
+    "title": "Freeciv(nation) · congolese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_congolesebrazzaville_ruleset.md",
+    "title": "Freeciv(nation) · congolesebrazzaville",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cornish_ruleset.md",
+    "title": "Freeciv(nation) · cornish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_corsican_ruleset.md",
+    "title": "Freeciv(nation) · corsican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cossack_ruleset.md",
+    "title": "Freeciv(nation) · cossack",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_costarican_ruleset.md",
+    "title": "Freeciv(nation) · costarican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cree_ruleset.md",
+    "title": "Freeciv(nation) · cree",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cretan_ruleset.md",
+    "title": "Freeciv(nation) · cretan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_crimeantatar_ruleset.md",
+    "title": "Freeciv(nation) · crimeantatar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_croatian_ruleset.md",
+    "title": "Freeciv(nation) · croatian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_crusader_ruleset.md",
+    "title": "Freeciv(nation) · crusader",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cuban_ruleset.md",
+    "title": "Freeciv(nation) · cuban",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_curonian_ruleset.md",
+    "title": "Freeciv(nation) · curonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cuyavian_ruleset.md",
+    "title": "Freeciv(nation) · cuyavian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cypriot_ruleset.md",
+    "title": "Freeciv(nation) · cypriot",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_cyrenaican_ruleset.md",
+    "title": "Freeciv(nation) · cyrenaican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_czech_ruleset.md",
+    "title": "Freeciv(nation) · czech",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_czechoslovak_ruleset.md",
+    "title": "Freeciv(nation) · czechoslovak",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dacian_ruleset.md",
+    "title": "Freeciv(nation) · dacian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dagestan_ruleset.md",
+    "title": "Freeciv(nation) · dagestan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dahomean_ruleset.md",
+    "title": "Freeciv(nation) · dahomean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_danish_ruleset.md",
+    "title": "Freeciv(nation) · danish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_darfuri_ruleset.md",
+    "title": "Freeciv(nation) · darfuri",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_djiboutian_ruleset.md",
+    "title": "Freeciv(nation) · djiboutian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dominican_ruleset.md",
+    "title": "Freeciv(nation) · dominican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dominicano_ruleset.md",
+    "title": "Freeciv(nation) · dominicano",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_donetsk_ruleset.md",
+    "title": "Freeciv(nation) · donetsk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dryad_ruleset.md",
+    "title": "Freeciv(nation) · dryad",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_dutch_ruleset.md",
+    "title": "Freeciv(nation) · dutch",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_eastgerman_ruleset.md",
+    "title": "Freeciv(nation) · eastgerman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_easttimorese_ruleset.md",
+    "title": "Freeciv(nation) · easttimorese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ecuadorian_ruleset.md",
+    "title": "Freeciv(nation) · ecuadorian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_egyptian_ruleset.md",
+    "title": "Freeciv(nation) · egyptian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_egyptianarab_ruleset.md",
+    "title": "Freeciv(nation) · egyptianarab",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_elamite_ruleset.md",
+    "title": "Freeciv(nation) · elamite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_emirati_ruleset.md",
+    "title": "Freeciv(nation) · emirati",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_english_ruleset.md",
+    "title": "Freeciv(nation) · english",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_epirote_ruleset.md",
+    "title": "Freeciv(nation) · epirote",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_equatoguinean_ruleset.md",
+    "title": "Freeciv(nation) · equatoguinean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_eritrean_ruleset.md",
+    "title": "Freeciv(nation) · eritrean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_esperant_ruleset.md",
+    "title": "Freeciv(nation) · esperant",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_estonian_ruleset.md",
+    "title": "Freeciv(nation) · estonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ethiopian_ruleset.md",
+    "title": "Freeciv(nation) · ethiopian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_etruscan_ruleset.md",
+    "title": "Freeciv(nation) · etruscan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_european_ruleset.md",
+    "title": "Freeciv(nation) · european",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_evenki_ruleset.md",
+    "title": "Freeciv(nation) · evenki",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_faroese_ruleset.md",
+    "title": "Freeciv(nation) · faroese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_fijian_ruleset.md",
+    "title": "Freeciv(nation) · fijian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_filipino_ruleset.md",
+    "title": "Freeciv(nation) · filipino",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_finnish_ruleset.md",
+    "title": "Freeciv(nation) · finnish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_flemish_ruleset.md",
+    "title": "Freeciv(nation) · flemish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_florentine_ruleset.md",
+    "title": "Freeciv(nation) · florentine",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_floridian_ruleset.md",
+    "title": "Freeciv(nation) · floridian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_formosan_ruleset.md",
+    "title": "Freeciv(nation) · formosan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_franconian_ruleset.md",
+    "title": "Freeciv(nation) · franconian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_frankish_ruleset.md",
+    "title": "Freeciv(nation) · frankish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_french_ruleset.md",
+    "title": "Freeciv(nation) · french",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_frisian_ruleset.md",
+    "title": "Freeciv(nation) · frisian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_friulian_ruleset.md",
+    "title": "Freeciv(nation) · friulian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_fulani_ruleset.md",
+    "title": "Freeciv(nation) · fulani",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gabonese_ruleset.md",
+    "title": "Freeciv(nation) · gabonese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gaelic_ruleset.md",
+    "title": "Freeciv(nation) · gaelic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_galician_ruleset.md",
+    "title": "Freeciv(nation) · galician",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gallic_ruleset.md",
+    "title": "Freeciv(nation) · gallic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gambian_ruleset.md",
+    "title": "Freeciv(nation) · gambian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_genoese_ruleset.md",
+    "title": "Freeciv(nation) · genoese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_georgian_ruleset.md",
+    "title": "Freeciv(nation) · georgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gepid_ruleset.md",
+    "title": "Freeciv(nation) · gepid",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_german_ruleset.md",
+    "title": "Freeciv(nation) · german",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_germanbelgian_ruleset.md",
+    "title": "Freeciv(nation) · germanbelgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_germanempire_ruleset.md",
+    "title": "Freeciv(nation) · germanempire",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_germanic_ruleset.md",
+    "title": "Freeciv(nation) · germanic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ghana_ruleset.md",
+    "title": "Freeciv(nation) · ghana",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ghanaian_ruleset.md",
+    "title": "Freeciv(nation) · ghanaian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ghaznavid_ruleset.md",
+    "title": "Freeciv(nation) · ghaznavid",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gokturk_ruleset.md",
+    "title": "Freeciv(nation) · gokturk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_goldenhorde_ruleset.md",
+    "title": "Freeciv(nation) · goldenhorde",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gothic_ruleset.md",
+    "title": "Freeciv(nation) · gothic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_greaterpolish_ruleset.md",
+    "title": "Freeciv(nation) · greaterpolish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_greek_ruleset.md",
+    "title": "Freeciv(nation) · greek",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_greenlander_ruleset.md",
+    "title": "Freeciv(nation) · greenlander",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_grenadian_ruleset.md",
+    "title": "Freeciv(nation) · grenadian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_guanche_ruleset.md",
+    "title": "Freeciv(nation) · guanche",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_guarani_ruleset.md",
+    "title": "Freeciv(nation) · guarani",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_guatemalan_ruleset.md",
+    "title": "Freeciv(nation) · guatemalan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_guinean_ruleset.md",
+    "title": "Freeciv(nation) · guinean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_gupta_ruleset.md",
+    "title": "Freeciv(nation) · gupta",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_guyanese_ruleset.md",
+    "title": "Freeciv(nation) · guyanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hacker_ruleset.md",
+    "title": "Freeciv(nation) · hacker",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_haitian_ruleset.md",
+    "title": "Freeciv(nation) · haitian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_han_ruleset.md",
+    "title": "Freeciv(nation) · han",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hanoverian_ruleset.md",
+    "title": "Freeciv(nation) · hanoverian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hansa_ruleset.md",
+    "title": "Freeciv(nation) · hansa",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hasinay_ruleset.md",
+    "title": "Freeciv(nation) · hasinay",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hawaiian_ruleset.md",
+    "title": "Freeciv(nation) · hawaiian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hellenic_ruleset.md",
+    "title": "Freeciv(nation) · hellenic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_helvetian_ruleset.md",
+    "title": "Freeciv(nation) · helvetian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hephthalite_ruleset.md",
+    "title": "Freeciv(nation) · hephthalite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hessedarmstadt_ruleset.md",
+    "title": "Freeciv(nation) · hessedarmstadt",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hessian_ruleset.md",
+    "title": "Freeciv(nation) · hessian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_himyarite_ruleset.md",
+    "title": "Freeciv(nation) · himyarite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hittite_ruleset.md",
+    "title": "Freeciv(nation) · hittite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_holyroman_ruleset.md",
+    "title": "Freeciv(nation) · holyroman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_holysee_ruleset.md",
+    "title": "Freeciv(nation) · holysee",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_honduran_ruleset.md",
+    "title": "Freeciv(nation) · honduran",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hopi_ruleset.md",
+    "title": "Freeciv(nation) · hopi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hungarian_ruleset.md",
+    "title": "Freeciv(nation) · hungarian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_hunnic_ruleset.md",
+    "title": "Freeciv(nation) · hunnic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_iberian_ruleset.md",
+    "title": "Freeciv(nation) · iberian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_icelandic_ruleset.md",
+    "title": "Freeciv(nation) · icelandic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_illyrian_ruleset.md",
+    "title": "Freeciv(nation) · illyrian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_inca_ruleset.md",
+    "title": "Freeciv(nation) · inca",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_indian_ruleset.md",
+    "title": "Freeciv(nation) · indian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_indoeuropean_ruleset.md",
+    "title": "Freeciv(nation) · indoeuropean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_indonesian_ruleset.md",
+    "title": "Freeciv(nation) · indonesian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_inuit_ruleset.md",
+    "title": "Freeciv(nation) · inuit",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_iranian_ruleset.md",
+    "title": "Freeciv(nation) · iranian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_iraqi_ruleset.md",
+    "title": "Freeciv(nation) · iraqi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_irish_ruleset.md",
+    "title": "Freeciv(nation) · irish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_iroquois_ruleset.md",
+    "title": "Freeciv(nation) · iroquois",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_israeli_ruleset.md",
+    "title": "Freeciv(nation) · israeli",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_israelite_ruleset.md",
+    "title": "Freeciv(nation) · israelite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_italian_ruleset.md",
+    "title": "Freeciv(nation) · italian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_italiangreek_ruleset.md",
+    "title": "Freeciv(nation) · italiangreek",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ivoirian_ruleset.md",
+    "title": "Freeciv(nation) · ivoirian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_jaffna_ruleset.md",
+    "title": "Freeciv(nation) · jaffna",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_jamaican_ruleset.md",
+    "title": "Freeciv(nation) · jamaican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_japanese_ruleset.md",
+    "title": "Freeciv(nation) · japanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_jolof_ruleset.md",
+    "title": "Freeciv(nation) · jolof",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_jordanian_ruleset.md",
+    "title": "Freeciv(nation) · jordanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kalmyk_ruleset.md",
+    "title": "Freeciv(nation) · kalmyk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kanem-bornu_ruleset.md",
+    "title": "Freeciv(nation) · kanem-bornu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_karabakhi_ruleset.md",
+    "title": "Freeciv(nation) · karabakhi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_karelian_ruleset.md",
+    "title": "Freeciv(nation) · karelian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_karen_ruleset.md",
+    "title": "Freeciv(nation) · karen",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kashmiri_ruleset.md",
+    "title": "Freeciv(nation) · kashmiri",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kashubian_ruleset.md",
+    "title": "Freeciv(nation) · kashubian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_katangan_ruleset.md",
+    "title": "Freeciv(nation) · katangan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kazakh_ruleset.md",
+    "title": "Freeciv(nation) · kazakh",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kenyan_ruleset.md",
+    "title": "Freeciv(nation) · kenyan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_khazar_ruleset.md",
+    "title": "Freeciv(nation) · khazar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_khmer_ruleset.md",
+    "title": "Freeciv(nation) · khmer",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_khoisan_ruleset.md",
+    "title": "Freeciv(nation) · khoisan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_khwarezmian_ruleset.md",
+    "title": "Freeciv(nation) · khwarezmian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kiribati_ruleset.md",
+    "title": "Freeciv(nation) · kiribati",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kittitian_ruleset.md",
+    "title": "Freeciv(nation) · kittitian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_komi_ruleset.md",
+    "title": "Freeciv(nation) · komi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kongo_ruleset.md",
+    "title": "Freeciv(nation) · kongo",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_korean_ruleset.md",
+    "title": "Freeciv(nation) · korean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kosovar_ruleset.md",
+    "title": "Freeciv(nation) · kosovar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kuna_ruleset.md",
+    "title": "Freeciv(nation) · kuna",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kurd_ruleset.md",
+    "title": "Freeciv(nation) · kurd",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kushan_ruleset.md",
+    "title": "Freeciv(nation) · kushan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kuwaiti_ruleset.md",
+    "title": "Freeciv(nation) · kuwaiti",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_kyrgyz_ruleset.md",
+    "title": "Freeciv(nation) · kyrgyz",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_langobardic_ruleset.md",
+    "title": "Freeciv(nation) · langobardic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lankese_ruleset.md",
+    "title": "Freeciv(nation) · lankese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_laotian_ruleset.md",
+    "title": "Freeciv(nation) · laotian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_latin_ruleset.md",
+    "title": "Freeciv(nation) · latin",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_latvian_ruleset.md",
+    "title": "Freeciv(nation) · latvian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lebanese_ruleset.md",
+    "title": "Freeciv(nation) · lebanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lendian_ruleset.md",
+    "title": "Freeciv(nation) · lendian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_leonese_ruleset.md",
+    "title": "Freeciv(nation) · leonese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lesothoan_ruleset.md",
+    "title": "Freeciv(nation) · lesothoan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_liberian_ruleset.md",
+    "title": "Freeciv(nation) · liberian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_liburnian_ruleset.md",
+    "title": "Freeciv(nation) · liburnian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_libyan_ruleset.md",
+    "title": "Freeciv(nation) · libyan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_liechtensteiner_ruleset.md",
+    "title": "Freeciv(nation) · liechtensteiner",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_liege_ruleset.md",
+    "title": "Freeciv(nation) · liege",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ligurian_ruleset.md",
+    "title": "Freeciv(nation) · ligurian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lipkatatar_ruleset.md",
+    "title": "Freeciv(nation) · lipkatatar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lippe_ruleset.md",
+    "title": "Freeciv(nation) · lippe",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lithuanian_ruleset.md",
+    "title": "Freeciv(nation) · lithuanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lojbanistani_ruleset.md",
+    "title": "Freeciv(nation) · lojbanistani",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lorrain_ruleset.md",
+    "title": "Freeciv(nation) · lorrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_louisianan_ruleset.md",
+    "title": "Freeciv(nation) · louisianan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_luhansk_ruleset.md",
+    "title": "Freeciv(nation) · luhansk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_luwian_ruleset.md",
+    "title": "Freeciv(nation) · luwian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_luxembourgish_ruleset.md",
+    "title": "Freeciv(nation) · luxembourgish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_lycian_ruleset.md",
+    "title": "Freeciv(nation) · lycian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_maasai_ruleset.md",
+    "title": "Freeciv(nation) · maasai",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_macedon_ruleset.md",
+    "title": "Freeciv(nation) · macedon",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_macedonian_ruleset.md",
+    "title": "Freeciv(nation) · macedonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_majapahit_ruleset.md",
+    "title": "Freeciv(nation) · majapahit",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_malagasy_ruleset.md",
+    "title": "Freeciv(nation) · malagasy",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_malawian_ruleset.md",
+    "title": "Freeciv(nation) · malawian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_malaysian_ruleset.md",
+    "title": "Freeciv(nation) · malaysian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_maldivian_ruleset.md",
+    "title": "Freeciv(nation) · maldivian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mali_ruleset.md",
+    "title": "Freeciv(nation) · mali",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_malian_ruleset.md",
+    "title": "Freeciv(nation) · malian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_maltese_ruleset.md",
+    "title": "Freeciv(nation) · maltese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mamluk_ruleset.md",
+    "title": "Freeciv(nation) · mamluk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_manchu_ruleset.md",
+    "title": "Freeciv(nation) · manchu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_manx_ruleset.md",
+    "title": "Freeciv(nation) · manx",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_maori_ruleset.md",
+    "title": "Freeciv(nation) · maori",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mapuche_ruleset.md",
+    "title": "Freeciv(nation) · mapuche",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_marathi_ruleset.md",
+    "title": "Freeciv(nation) · marathi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_marshallese_ruleset.md",
+    "title": "Freeciv(nation) · marshallese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_martian_ruleset.md",
+    "title": "Freeciv(nation) · martian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mauritanian_ruleset.md",
+    "title": "Freeciv(nation) · mauritanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mauritian_ruleset.md",
+    "title": "Freeciv(nation) · mauritian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mayan_ruleset.md",
+    "title": "Freeciv(nation) · mayan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mazovian_ruleset.md",
+    "title": "Freeciv(nation) · mazovian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mecklenburgian_ruleset.md",
+    "title": "Freeciv(nation) · mecklenburgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_median_ruleset.md",
+    "title": "Freeciv(nation) · median",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_messapian_ruleset.md",
+    "title": "Freeciv(nation) · messapian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_metis_ruleset.md",
+    "title": "Freeciv(nation) · metis",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mexican_ruleset.md",
+    "title": "Freeciv(nation) · mexican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_miao_ruleset.md",
+    "title": "Freeciv(nation) · miao",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_micronesian_ruleset.md",
+    "title": "Freeciv(nation) · micronesian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mikmaq_ruleset.md",
+    "title": "Freeciv(nation) · mikmaq",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_milanese_ruleset.md",
+    "title": "Freeciv(nation) · milanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_miskito_ruleset.md",
+    "title": "Freeciv(nation) · miskito",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mitanni_ruleset.md",
+    "title": "Freeciv(nation) · mitanni",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mixtec_ruleset.md",
+    "title": "Freeciv(nation) · mixtec",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_moldovan_ruleset.md",
+    "title": "Freeciv(nation) · moldovan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_moluccan_ruleset.md",
+    "title": "Freeciv(nation) · moluccan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mon_ruleset.md",
+    "title": "Freeciv(nation) · mon",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_monegasque_ruleset.md",
+    "title": "Freeciv(nation) · monegasque",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mongol_ruleset.md",
+    "title": "Freeciv(nation) · mongol",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_montenegrin_ruleset.md",
+    "title": "Freeciv(nation) · montenegrin",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_moravian_ruleset.md",
+    "title": "Freeciv(nation) · moravian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mordvin_ruleset.md",
+    "title": "Freeciv(nation) · mordvin",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_moroccan_ruleset.md",
+    "title": "Freeciv(nation) · moroccan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mozambican_ruleset.md",
+    "title": "Freeciv(nation) · mozambican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mughal_ruleset.md",
+    "title": "Freeciv(nation) · mughal",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_muscovite_ruleset.md",
+    "title": "Freeciv(nation) · muscovite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_muskogee_ruleset.md",
+    "title": "Freeciv(nation) · muskogee",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_mwiska_ruleset.md",
+    "title": "Freeciv(nation) · mwiska",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_namibian_ruleset.md",
+    "title": "Freeciv(nation) · namibian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nauruan_ruleset.md",
+    "title": "Freeciv(nation) · nauruan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_navajo_ruleset.md",
+    "title": "Freeciv(nation) · navajo",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_neapolitan_ruleset.md",
+    "title": "Freeciv(nation) · neapolitan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nenets_ruleset.md",
+    "title": "Freeciv(nation) · nenets",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nepali_ruleset.md",
+    "title": "Freeciv(nation) · nepali",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nestorian_ruleset.md",
+    "title": "Freeciv(nation) · nestorian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_newfoundland_ruleset.md",
+    "title": "Freeciv(nation) · newfoundland",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_newzealand_ruleset.md",
+    "title": "Freeciv(nation) · newzealand",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nicaraguan_ruleset.md",
+    "title": "Freeciv(nation) · nicaraguan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nigerian_ruleset.md",
+    "title": "Freeciv(nation) · nigerian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nigerien_ruleset.md",
+    "title": "Freeciv(nation) · nigerien",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nimiipuu_ruleset.md",
+    "title": "Freeciv(nation) · nimiipuu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_norman_ruleset.md",
+    "title": "Freeciv(nation) · norman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_northireland_ruleset.md",
+    "title": "Freeciv(nation) · northireland",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_northkorean_ruleset.md",
+    "title": "Freeciv(nation) · northkorean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_northumbrian_ruleset.md",
+    "title": "Freeciv(nation) · northumbrian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_norwegian_ruleset.md",
+    "title": "Freeciv(nation) · norwegian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_novgorodian_ruleset.md",
+    "title": "Freeciv(nation) · novgorodian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nubian_ruleset.md",
+    "title": "Freeciv(nation) · nubian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_numidian_ruleset.md",
+    "title": "Freeciv(nation) · numidian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_nuu-chah-nulth_ruleset.md",
+    "title": "Freeciv(nation) · nuu-chah-nulth",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_occitan_ruleset.md",
+    "title": "Freeciv(nation) · occitan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ohlone_ruleset.md",
+    "title": "Freeciv(nation) · ohlone",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_oldenburgian_ruleset.md",
+    "title": "Freeciv(nation) · oldenburgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_oldprussian_ruleset.md",
+    "title": "Freeciv(nation) · oldprussian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_omani_ruleset.md",
+    "title": "Freeciv(nation) · omani",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ossetian_ruleset.md",
+    "title": "Freeciv(nation) · ossetian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ostrogothic_ruleset.md",
+    "title": "Freeciv(nation) · ostrogothic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_otomi_ruleset.md",
+    "title": "Freeciv(nation) · otomi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ottoman_ruleset.md",
+    "title": "Freeciv(nation) · ottoman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ozite_ruleset.md",
+    "title": "Freeciv(nation) · ozite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_paeonian_ruleset.md",
+    "title": "Freeciv(nation) · paeonian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_pakistani_ruleset.md",
+    "title": "Freeciv(nation) · pakistani",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_palatinate_ruleset.md",
+    "title": "Freeciv(nation) · palatinate",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_palauan_ruleset.md",
+    "title": "Freeciv(nation) · palauan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_palestinian_ruleset.md",
+    "title": "Freeciv(nation) · palestinian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_palmyrene_ruleset.md",
+    "title": "Freeciv(nation) · palmyrene",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_panamanian_ruleset.md",
+    "title": "Freeciv(nation) · panamanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_papuan_ruleset.md",
+    "title": "Freeciv(nation) · papuan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_papuanewguinean_ruleset.md",
+    "title": "Freeciv(nation) · papuanewguinean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_paraguayan_ruleset.md",
+    "title": "Freeciv(nation) · paraguayan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_parthian_ruleset.md",
+    "title": "Freeciv(nation) · parthian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_pashtun_ruleset.md",
+    "title": "Freeciv(nation) · pashtun",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_pelasgian_ruleset.md",
+    "title": "Freeciv(nation) · pelasgian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_persian_ruleset.md",
+    "title": "Freeciv(nation) · persian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_peruvian_ruleset.md",
+    "title": "Freeciv(nation) · peruvian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_phoenician_ruleset.md",
+    "title": "Freeciv(nation) · phoenician",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_phrygian_ruleset.md",
+    "title": "Freeciv(nation) · phrygian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_pictish_ruleset.md",
+    "title": "Freeciv(nation) · pictish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_piedmontese_ruleset.md",
+    "title": "Freeciv(nation) · piedmontese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_pirate_ruleset.md",
+    "title": "Freeciv(nation) · pirate",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_polish_ruleset.md",
+    "title": "Freeciv(nation) · polish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_polynesian_ruleset.md",
+    "title": "Freeciv(nation) · polynesian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_pontic_ruleset.md",
+    "title": "Freeciv(nation) · pontic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_portuguese_ruleset.md",
+    "title": "Freeciv(nation) · portuguese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_prussian_ruleset.md",
+    "title": "Freeciv(nation) · prussian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_puertorican_ruleset.md",
+    "title": "Freeciv(nation) · puertorican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_purhepecha_ruleset.md",
+    "title": "Freeciv(nation) · purhepecha",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_qatari_ruleset.md",
+    "title": "Freeciv(nation) · qatari",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_quebecois_ruleset.md",
+    "title": "Freeciv(nation) · quebecois",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_rapanui_ruleset.md",
+    "title": "Freeciv(nation) · rapanui",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_raramuri_ruleset.md",
+    "title": "Freeciv(nation) · raramuri",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_rhenish_ruleset.md",
+    "title": "Freeciv(nation) · rhenish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_rhodesia_ruleset.md",
+    "title": "Freeciv(nation) · rhodesia",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_riffian_ruleset.md",
+    "title": "Freeciv(nation) · riffian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_riograndense_ruleset.md",
+    "title": "Freeciv(nation) · riograndense",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_roman_ruleset.md",
+    "title": "Freeciv(nation) · roman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_romanian_ruleset.md",
+    "title": "Freeciv(nation) · romanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_romansh_ruleset.md",
+    "title": "Freeciv(nation) · romansh",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_russian_ruleset.md",
+    "title": "Freeciv(nation) · russian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_rusyn_ruleset.md",
+    "title": "Freeciv(nation) · rusyn",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ruthenian_ruleset.md",
+    "title": "Freeciv(nation) · ruthenian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_rwandan_ruleset.md",
+    "title": "Freeciv(nation) · rwandan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ryukyuan_ruleset.md",
+    "title": "Freeciv(nation) · ryukyuan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_saarprotectorate_ruleset.md",
+    "title": "Freeciv(nation) · saarprotectorate",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sabine_ruleset.md",
+    "title": "Freeciv(nation) · sabine",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sahrawi_ruleset.md",
+    "title": "Freeciv(nation) · sahrawi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_saintlucian_ruleset.md",
+    "title": "Freeciv(nation) · saintlucian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_saka_ruleset.md",
+    "title": "Freeciv(nation) · saka",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_salishan_ruleset.md",
+    "title": "Freeciv(nation) · salishan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_salvadoran_ruleset.md",
+    "title": "Freeciv(nation) · salvadoran",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sami_ruleset.md",
+    "title": "Freeciv(nation) · sami",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sammarinese_ruleset.md",
+    "title": "Freeciv(nation) · sammarinese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_samnite_ruleset.md",
+    "title": "Freeciv(nation) · samnite",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_samoan_ruleset.md",
+    "title": "Freeciv(nation) · samoan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_samogitian_ruleset.md",
+    "title": "Freeciv(nation) · samogitian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_santomean_ruleset.md",
+    "title": "Freeciv(nation) · santomean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sardinian_ruleset.md",
+    "title": "Freeciv(nation) · sardinian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sarmatian_ruleset.md",
+    "title": "Freeciv(nation) · sarmatian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_saudi_ruleset.md",
+    "title": "Freeciv(nation) · saudi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_savoyard_ruleset.md",
+    "title": "Freeciv(nation) · savoyard",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_saxon_ruleset.md",
+    "title": "Freeciv(nation) · saxon",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_scanian_ruleset.md",
+    "title": "Freeciv(nation) · scanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_schaumburglippe_ruleset.md",
+    "title": "Freeciv(nation) · schaumburglippe",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_schleswig-holsteinian_ruleset.md",
+    "title": "Freeciv(nation) · schleswig-holsteinian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_scottish_ruleset.md",
+    "title": "Freeciv(nation) · scottish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_scottishgaelic_ruleset.md",
+    "title": "Freeciv(nation) · scottishgaelic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_scythian_ruleset.md",
+    "title": "Freeciv(nation) · scythian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_seleucid_ruleset.md",
+    "title": "Freeciv(nation) · seleucid",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_seljuk_ruleset.md",
+    "title": "Freeciv(nation) · seljuk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_seminole_ruleset.md",
+    "title": "Freeciv(nation) · seminole",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_senegalese_ruleset.md",
+    "title": "Freeciv(nation) · senegalese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_serbian_ruleset.md",
+    "title": "Freeciv(nation) · serbian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_seychellois_ruleset.md",
+    "title": "Freeciv(nation) · seychellois",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_shan_ruleset.md",
+    "title": "Freeciv(nation) · shan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_shawnee_ruleset.md",
+    "title": "Freeciv(nation) · shawnee",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sherpa_ruleset.md",
+    "title": "Freeciv(nation) · sherpa",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_siberian_ruleset.md",
+    "title": "Freeciv(nation) · siberian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sicilian_ruleset.md",
+    "title": "Freeciv(nation) · sicilian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sierraleonean_ruleset.md",
+    "title": "Freeciv(nation) · sierraleonean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sikh_ruleset.md",
+    "title": "Freeciv(nation) · sikh",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sikkimese_ruleset.md",
+    "title": "Freeciv(nation) · sikkimese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_silesian_ruleset.md",
+    "title": "Freeciv(nation) · silesian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_singaporean_ruleset.md",
+    "title": "Freeciv(nation) · singaporean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_singlebarbarian_ruleset.md",
+    "title": "Freeciv(nation) · singlebarbarian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sinhalese_ruleset.md",
+    "title": "Freeciv(nation) · sinhalese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sioux_ruleset.md",
+    "title": "Freeciv(nation) · sioux",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_slavic_ruleset.md",
+    "title": "Freeciv(nation) · slavic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_slovakian_ruleset.md",
+    "title": "Freeciv(nation) · slovakian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_slovenian_ruleset.md",
+    "title": "Freeciv(nation) · slovenian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_solomonislander_ruleset.md",
+    "title": "Freeciv(nation) · solomonislander",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_somali_ruleset.md",
+    "title": "Freeciv(nation) · somali",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_somaliland_ruleset.md",
+    "title": "Freeciv(nation) · somaliland",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_songhai_ruleset.md",
+    "title": "Freeciv(nation) · songhai",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sorbian_ruleset.md",
+    "title": "Freeciv(nation) · sorbian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sotho_ruleset.md",
+    "title": "Freeciv(nation) · sotho",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_southafrican_ruleset.md",
+    "title": "Freeciv(nation) · southafrican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_southamerican_ruleset.md",
+    "title": "Freeciv(nation) · southamerican",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_southkorean_ruleset.md",
+    "title": "Freeciv(nation) · southkorean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_southsudanese_ruleset.md",
+    "title": "Freeciv(nation) · southsudanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_southvietnamese_ruleset.md",
+    "title": "Freeciv(nation) · southvietnamese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_southyemeni_ruleset.md",
+    "title": "Freeciv(nation) · southyemeni",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_soviet_ruleset.md",
+    "title": "Freeciv(nation) · soviet",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_spanish_ruleset.md",
+    "title": "Freeciv(nation) · spanish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_srivijaya_ruleset.md",
+    "title": "Freeciv(nation) · srivijaya",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sudanese_ruleset.md",
+    "title": "Freeciv(nation) · sudanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_suebian_ruleset.md",
+    "title": "Freeciv(nation) · suebian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_sumerian_ruleset.md",
+    "title": "Freeciv(nation) · sumerian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_surinamese_ruleset.md",
+    "title": "Freeciv(nation) · surinamese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_swahili_ruleset.md",
+    "title": "Freeciv(nation) · swahili",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_swazi_ruleset.md",
+    "title": "Freeciv(nation) · swazi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_swedish_ruleset.md",
+    "title": "Freeciv(nation) · swedish",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_swiss_ruleset.md",
+    "title": "Freeciv(nation) · swiss",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_syrian_ruleset.md",
+    "title": "Freeciv(nation) · syrian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tahitian_ruleset.md",
+    "title": "Freeciv(nation) · tahitian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_taino_ruleset.md",
+    "title": "Freeciv(nation) · taino",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tairona_ruleset.md",
+    "title": "Freeciv(nation) · tairona",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_taiwanese_ruleset.md",
+    "title": "Freeciv(nation) · taiwanese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tajik_ruleset.md",
+    "title": "Freeciv(nation) · tajik",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tanganyikan_ruleset.md",
+    "title": "Freeciv(nation) · tanganyikan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tanzanian_ruleset.md",
+    "title": "Freeciv(nation) · tanzanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tatar_ruleset.md",
+    "title": "Freeciv(nation) · tatar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_templar_ruleset.md",
+    "title": "Freeciv(nation) · templar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_teutonic_ruleset.md",
+    "title": "Freeciv(nation) · teutonic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_texan_ruleset.md",
+    "title": "Freeciv(nation) · texan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_thai_ruleset.md",
+    "title": "Freeciv(nation) · thai",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_thracian_ruleset.md",
+    "title": "Freeciv(nation) · thracian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_thuringian_ruleset.md",
+    "title": "Freeciv(nation) · thuringian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tibetan_ruleset.md",
+    "title": "Freeciv(nation) · tibetan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_timurid_ruleset.md",
+    "title": "Freeciv(nation) · timurid",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tocharian_ruleset.md",
+    "title": "Freeciv(nation) · tocharian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_togolese_ruleset.md",
+    "title": "Freeciv(nation) · togolese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tokiponan_ruleset.md",
+    "title": "Freeciv(nation) · tokiponan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_toltec_ruleset.md",
+    "title": "Freeciv(nation) · toltec",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tongan_ruleset.md",
+    "title": "Freeciv(nation) · tongan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_transnistrian_ruleset.md",
+    "title": "Freeciv(nation) · transnistrian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_transylvanian_ruleset.md",
+    "title": "Freeciv(nation) · transylvanian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_trinidadian_ruleset.md",
+    "title": "Freeciv(nation) · trinidadian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tswana_ruleset.md",
+    "title": "Freeciv(nation) · tswana",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tuareg_ruleset.md",
+    "title": "Freeciv(nation) · tuareg",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tunisian_ruleset.md",
+    "title": "Freeciv(nation) · tunisian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tupi_ruleset.md",
+    "title": "Freeciv(nation) · tupi",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_turk_ruleset.md",
+    "title": "Freeciv(nation) · turk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_turkishcypriot_ruleset.md",
+    "title": "Freeciv(nation) · turkishcypriot",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_turkmen_ruleset.md",
+    "title": "Freeciv(nation) · turkmen",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tuvan_ruleset.md",
+    "title": "Freeciv(nation) · tuvan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_tyrolian_ruleset.md",
+    "title": "Freeciv(nation) · tyrolian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ugandan_ruleset.md",
+    "title": "Freeciv(nation) · ugandan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_ukrainian_ruleset.md",
+    "title": "Freeciv(nation) · ukrainian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_un_ruleset.md",
+    "title": "Freeciv(nation) · un",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_urartian_ruleset.md",
+    "title": "Freeciv(nation) · urartian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_uruguayan_ruleset.md",
+    "title": "Freeciv(nation) · uruguayan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_uyghur_ruleset.md",
+    "title": "Freeciv(nation) · uyghur",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_uzbek_ruleset.md",
+    "title": "Freeciv(nation) · uzbek",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vampire_ruleset.md",
+    "title": "Freeciv(nation) · vampire",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vandalic_ruleset.md",
+    "title": "Freeciv(nation) · vandalic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vanuatuan_ruleset.md",
+    "title": "Freeciv(nation) · vanuatuan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vedic_ruleset.md",
+    "title": "Freeciv(nation) · vedic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_veletian_ruleset.md",
+    "title": "Freeciv(nation) · veletian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_venda_ruleset.md",
+    "title": "Freeciv(nation) · venda",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_venetian_ruleset.md",
+    "title": "Freeciv(nation) · venetian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_venetic_ruleset.md",
+    "title": "Freeciv(nation) · venetic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_venezuelan_ruleset.md",
+    "title": "Freeciv(nation) · venezuelan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vermont_ruleset.md",
+    "title": "Freeciv(nation) · vermont",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vietnamese_ruleset.md",
+    "title": "Freeciv(nation) · vietnamese",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_viking_ruleset.md",
+    "title": "Freeciv(nation) · viking",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vincentian_ruleset.md",
+    "title": "Freeciv(nation) · vincentian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_visigothic_ruleset.md",
+    "title": "Freeciv(nation) · visigothic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_vistulan_ruleset.md",
+    "title": "Freeciv(nation) · vistulan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_volapuk_ruleset.md",
+    "title": "Freeciv(nation) · volapuk",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_volgabulgar_ruleset.md",
+    "title": "Freeciv(nation) · volgabulgar",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_volgagerman_ruleset.md",
+    "title": "Freeciv(nation) · volgagerman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_walloon_ruleset.md",
+    "title": "Freeciv(nation) · walloon",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_welsh_ruleset.md",
+    "title": "Freeciv(nation) · welsh",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_werewolf_ruleset.md",
+    "title": "Freeciv(nation) · werewolf",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_westernpomeranian_ruleset.md",
+    "title": "Freeciv(nation) · westernpomeranian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_westernroman_ruleset.md",
+    "title": "Freeciv(nation) · westernroman",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_westindian_ruleset.md",
+    "title": "Freeciv(nation) · westindian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_westphalian_ruleset.md",
+    "title": "Freeciv(nation) · westphalian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_wuerttembergian_ruleset.md",
+    "title": "Freeciv(nation) · wuerttembergian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_xhosa_ruleset.md",
+    "title": "Freeciv(nation) · xhosa",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_xiongnu_ruleset.md",
+    "title": "Freeciv(nation) · xiongnu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_yakut_ruleset.md",
+    "title": "Freeciv(nation) · yakut",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_yemeni_ruleset.md",
+    "title": "Freeciv(nation) · yemeni",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_yucatecan_ruleset.md",
+    "title": "Freeciv(nation) · yucatecan",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_yugoslav_ruleset.md",
+    "title": "Freeciv(nation) · yugoslav",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_zambian_ruleset.md",
+    "title": "Freeciv(nation) · zambian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_zanzibari_ruleset.md",
+    "title": "Freeciv(nation) · zanzibari",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_zapotec_ruleset.md",
+    "title": "Freeciv(nation) · zapotec",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_zhuang_ruleset.md",
+    "title": "Freeciv(nation) · zhuang",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_zimbabwean_ruleset.md",
+    "title": "Freeciv(nation) · zimbabwean",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_nation_zulu_ruleset.md",
+    "title": "Freeciv(nation) · zulu",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "nation"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_override_nation_ruleset.md",
+    "title": "Freeciv(override) · nation",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "override"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_buildings_ruleset.md",
+    "title": "Freeciv(royale) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_cities_ruleset.md",
+    "title": "Freeciv(royale) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_effects_ruleset.md",
+    "title": "Freeciv(royale) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_game_ruleset.md",
+    "title": "Freeciv(royale) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_governments_ruleset.md",
+    "title": "Freeciv(royale) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_nations_ruleset.md",
+    "title": "Freeciv(royale) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_parser_lua.md",
+    "title": "Freeciv(royale) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_script_lua.md",
+    "title": "Freeciv(royale) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_styles_ruleset.md",
+    "title": "Freeciv(royale) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_techs_ruleset.md",
+    "title": "Freeciv(royale) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_terrain_ruleset.md",
+    "title": "Freeciv(royale) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_royale_units_ruleset.md",
+    "title": "Freeciv(royale) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "royale"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_buildings_ruleset.md",
+    "title": "Freeciv(sandbox) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_cities_ruleset.md",
+    "title": "Freeciv(sandbox) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_effects_ruleset.md",
+    "title": "Freeciv(sandbox) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_game_ruleset.md",
+    "title": "Freeciv(sandbox) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_governments_ruleset.md",
+    "title": "Freeciv(sandbox) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_nations_ruleset.md",
+    "title": "Freeciv(sandbox) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_parser_lua.md",
+    "title": "Freeciv(sandbox) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_script_lua.md",
+    "title": "Freeciv(sandbox) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_styles_ruleset.md",
+    "title": "Freeciv(sandbox) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_techs_ruleset.md",
+    "title": "Freeciv(sandbox) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_terrain_ruleset.md",
+    "title": "Freeciv(sandbox) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_sandbox_units_ruleset.md",
+    "title": "Freeciv(sandbox) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "sandbox"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_barbarian_ruleset.md",
+    "title": "Freeciv(stub) · barbarian",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_buildings_ruleset.md",
+    "title": "Freeciv(stub) · buildings",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_cities_ruleset.md",
+    "title": "Freeciv(stub) · cities",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_effects_ruleset.md",
+    "title": "Freeciv(stub) · effects",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_game_ruleset.md",
+    "title": "Freeciv(stub) · game",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_generic_ruleset.md",
+    "title": "Freeciv(stub) · generic",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_governments_ruleset.md",
+    "title": "Freeciv(stub) · governments",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_nations_ruleset.md",
+    "title": "Freeciv(stub) · nations",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_parser_lua.md",
+    "title": "Freeciv(stub) · parser",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_script_lua.md",
+    "title": "Freeciv(stub) · script",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_styles_ruleset.md",
+    "title": "Freeciv(stub) · styles",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_techs_ruleset.md",
+    "title": "Freeciv(stub) · techs",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_terrain_ruleset.md",
+    "title": "Freeciv(stub) · terrain",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/freeciv/Freeciv_stub_units_ruleset.md",
+    "title": "Freeciv(stub) · units",
+    "tags": [
+      "文明",
+      "4X策略",
+      "规则集",
+      "stub"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_ai.md",
+    "title": "OpenRA(命令与征服) · ai 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_aircraft.md",
+    "title": "OpenRA(命令与征服) · aircraft 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_campaign-maprules.md",
+    "title": "OpenRA(命令与征服) · campaign-maprules 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_campaign-palettes.md",
+    "title": "OpenRA(命令与征服) · campaign-palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_campaign-tooltips.md",
+    "title": "OpenRA(命令与征服) · campaign-tooltips 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_civilian-desert.md",
+    "title": "OpenRA(命令与征服) · civilian-desert 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_civilian.md",
+    "title": "OpenRA(命令与征服) · civilian 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_defaults.md",
+    "title": "OpenRA(命令与征服) · defaults 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_disable-player-experience.md",
+    "title": "OpenRA(命令与征服) · disable-player-experience 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_husks.md",
+    "title": "OpenRA(命令与征服) · husks 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_infantry.md",
+    "title": "OpenRA(命令与征服) · infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_map-generators.md",
+    "title": "OpenRA(命令与征服) · map-generators 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_misc.md",
+    "title": "OpenRA(命令与征服) · misc 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_palettes.md",
+    "title": "OpenRA(命令与征服) · palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_player.md",
+    "title": "OpenRA(命令与征服) · player 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_ships.md",
+    "title": "OpenRA(命令与征服) · ships 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_structures.md",
+    "title": "OpenRA(命令与征服) · structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_tech.md",
+    "title": "OpenRA(命令与征服) · tech 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_trees.md",
+    "title": "OpenRA(命令与征服) · trees 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_vehicles.md",
+    "title": "OpenRA(命令与征服) · vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_cnc_world.md",
+    "title": "OpenRA(命令与征服) · world 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "命令与征服"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_ai.md",
+    "title": "OpenRA(沙丘2000) · ai 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_aircraft.md",
+    "title": "OpenRA(沙丘2000) · aircraft 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_arrakis.md",
+    "title": "OpenRA(沙丘2000) · arrakis 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_campaign-palettes.md",
+    "title": "OpenRA(沙丘2000) · campaign-palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_campaign-rules.md",
+    "title": "OpenRA(沙丘2000) · campaign-rules 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_campaign-tooltips.md",
+    "title": "OpenRA(沙丘2000) · campaign-tooltips 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_defaults.md",
+    "title": "OpenRA(沙丘2000) · defaults 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_disable-player-experience.md",
+    "title": "OpenRA(沙丘2000) · disable-player-experience 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_husks.md",
+    "title": "OpenRA(沙丘2000) · husks 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_infantry.md",
+    "title": "OpenRA(沙丘2000) · infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_map-generators.md",
+    "title": "OpenRA(沙丘2000) · map-generators 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_misc.md",
+    "title": "OpenRA(沙丘2000) · misc 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_palettes.md",
+    "title": "OpenRA(沙丘2000) · palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_player.md",
+    "title": "OpenRA(沙丘2000) · player 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_starport.md",
+    "title": "OpenRA(沙丘2000) · starport 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_structures.md",
+    "title": "OpenRA(沙丘2000) · structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_vehicles.md",
+    "title": "OpenRA(沙丘2000) · vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_d2k_world.md",
+    "title": "OpenRA(沙丘2000) · world 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "沙丘2000"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_ai.md",
+    "title": "OpenRA(红色警戒) · ai 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_aircraft.md",
+    "title": "OpenRA(红色警戒) · aircraft 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_campaign-palettes.md",
+    "title": "OpenRA(红色警戒) · campaign-palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_campaign-rules.md",
+    "title": "OpenRA(红色警戒) · campaign-rules 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_campaign-tooltips.md",
+    "title": "OpenRA(红色警戒) · campaign-tooltips 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_civilian.md",
+    "title": "OpenRA(红色警戒) · civilian 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_coop-missions-rules.md",
+    "title": "OpenRA(红色警戒) · coop-missions-rules 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_decoration.md",
+    "title": "OpenRA(红色警戒) · decoration 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_defaults.md",
+    "title": "OpenRA(红色警戒) · defaults 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_disable-player-experience.md",
+    "title": "OpenRA(红色警戒) · disable-player-experience 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_fakes.md",
+    "title": "OpenRA(红色警戒) · fakes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_husks.md",
+    "title": "OpenRA(红色警戒) · husks 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_infantry.md",
+    "title": "OpenRA(红色警戒) · infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_map-generators.md",
+    "title": "OpenRA(红色警戒) · map-generators 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_misc.md",
+    "title": "OpenRA(红色警戒) · misc 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_palettes.md",
+    "title": "OpenRA(红色警戒) · palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_player.md",
+    "title": "OpenRA(红色警戒) · player 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_ships.md",
+    "title": "OpenRA(红色警戒) · ships 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_structures.md",
+    "title": "OpenRA(红色警戒) · structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_vehicles.md",
+    "title": "OpenRA(红色警戒) · vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ra_world.md",
+    "title": "OpenRA(红色警戒) · world 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "红色警戒"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_ai.md",
+    "title": "OpenRA(泰伯利亚之日) · ai 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_aircraft.md",
+    "title": "OpenRA(泰伯利亚之日) · aircraft 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_bridges.md",
+    "title": "OpenRA(泰伯利亚之日) · bridges 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_civilian-infantry.md",
+    "title": "OpenRA(泰伯利亚之日) · civilian-infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_civilian-structures.md",
+    "title": "OpenRA(泰伯利亚之日) · civilian-structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_civilian-vehicles.md",
+    "title": "OpenRA(泰伯利亚之日) · civilian-vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_critters.md",
+    "title": "OpenRA(泰伯利亚之日) · critters 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_defaults.md",
+    "title": "OpenRA(泰伯利亚之日) · defaults 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_gdi-infantry.md",
+    "title": "OpenRA(泰伯利亚之日) · gdi-infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_gdi-structures.md",
+    "title": "OpenRA(泰伯利亚之日) · gdi-structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_gdi-support.md",
+    "title": "OpenRA(泰伯利亚之日) · gdi-support 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_gdi-vehicles.md",
+    "title": "OpenRA(泰伯利亚之日) · gdi-vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_husks.md",
+    "title": "OpenRA(泰伯利亚之日) · husks 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_map-generators.md",
+    "title": "OpenRA(泰伯利亚之日) · map-generators 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_misc.md",
+    "title": "OpenRA(泰伯利亚之日) · misc 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_nod-infantry.md",
+    "title": "OpenRA(泰伯利亚之日) · nod-infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_nod-structures.md",
+    "title": "OpenRA(泰伯利亚之日) · nod-structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_nod-support.md",
+    "title": "OpenRA(泰伯利亚之日) · nod-support 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_nod-vehicles.md",
+    "title": "OpenRA(泰伯利亚之日) · nod-vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_palettes.md",
+    "title": "OpenRA(泰伯利亚之日) · palettes 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_player.md",
+    "title": "OpenRA(泰伯利亚之日) · player 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_shared-infantry.md",
+    "title": "OpenRA(泰伯利亚之日) · shared-infantry 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_shared-structures.md",
+    "title": "OpenRA(泰伯利亚之日) · shared-structures 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_shared-support.md",
+    "title": "OpenRA(泰伯利亚之日) · shared-support 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_shared-vehicles.md",
+    "title": "OpenRA(泰伯利亚之日) · shared-vehicles 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_trees.md",
+    "title": "OpenRA(泰伯利亚之日) · trees 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/openra/OpenRA_ts_world.md",
+    "title": "OpenRA(泰伯利亚之日) · world 单位规则",
+    "tags": [
+      "红色警戒",
+      "RTS",
+      "单位属性",
+      "YAML规则",
+      "泰伯利亚之日"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AbnormalDamageConfig.md",
+    "title": "鸣潮 · AbnormalDamageConfig",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AbyssItem.md",
+    "title": "鸣潮 · AbyssItem",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AbyssLittleRole.md",
+    "title": "鸣潮 · AbyssLittleRole",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AbyssRoleLevel.md",
+    "title": "鸣潮 · AbyssRoleLevel",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AbyssRoleSlot.md",
+    "title": "鸣潮 · AbyssRoleSlot",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AdvertisingTabCharacter.md",
+    "title": "鸣潮 · AdvertisingTabCharacter",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AdvertisingTabEnemy.md",
+    "title": "鸣潮 · AdvertisingTabEnemy",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AiBaseSkill.md",
+    "title": "鸣潮 · AiBaseSkill",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AiSkillInfos.md",
+    "title": "鸣潮 · AiSkillInfos",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AiSkillPrecondition.md",
+    "title": "鸣潮 · AiSkillPrecondition",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_AutoRole.md",
+    "title": "鸣潮 · AutoRole",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_BabelTowerBuff.md",
+    "title": "鸣潮 · BabelTowerBuff",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_BattleLinkCharacter.md",
+    "title": "鸣潮 · BattleLinkCharacter",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_BookItem.md",
+    "title": "鸣潮 · BookItem",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  },
+  {
+    "path": "numerical/game-data/wuthering/鸣潮_BossRushBuff.md",
+    "title": "鸣潮 · BossRushBuff",
+    "tags": [
+      "鸣潮",
+      "数据解包"
+    ]
+  }
+]

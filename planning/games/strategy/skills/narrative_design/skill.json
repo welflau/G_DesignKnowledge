@@ -1,0 +1,48 @@
+{
+  "id": "narrative_design",
+  "name": "剧情策划 / 叙事设计",
+  "version": "1.0.0",
+  "description": "游戏剧情与叙事设计全流程能力。覆盖世界观构建、角色设计、故事结构、任务设计、对话撰写、叙事一致性校验。",
+  "supported_genres": [
+    "SLG",
+    "RPG",
+    "卡牌",
+    "塔防",
+    "肉鸽",
+    "AVG",
+    "通用"
+  ],
+  "sub_skills": [
+    {
+      "id": "world_building",
+      "name": "世界观构建"
+    },
+    {
+      "id": "character_design",
+      "name": "角色设计"
+    },
+    {
+      "id": "story_structure",
+      "name": "故事结构"
+    },
+    {
+      "id": "quest_design",
+      "name": "任务设计"
+    },
+    {
+      "id": "dialogue_writing",
+      "name": "对话/文案撰写"
+    },
+    {
+      "id": "narrative_validation",
+      "name": "叙事一致性校验"
+    }
+  ],
+  "knowledge_entries": 675,
+  "interfaces": [
+    "standalone_skill",
+    "mcp_tool",
+    "plugin",
+    "api"
+  ]
+}
